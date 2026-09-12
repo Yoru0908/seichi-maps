@@ -1,0 +1,29 @@
+{
+  "title": "櫻坂46「光源」PV 巡礼マップ",
+  "slug": "yamakawa-ui-kougen",
+  "scene_count": 7,
+  "layer_count": 3,
+  "layers": [
+    {
+      "name": "光源 PV - FIKA Lounge 南行徳",
+      "scene_count": 4
+    },
+    {
+      "name": "光源 PV - 行徳送電塔",
+      "scene_count": 1
+    },
+    {
+      "name": "光源 PV - 鹿島製造所",
+      "scene_count": 2
+    }
+  ],
+  "warnings": [],
+  "outputs": [
+    "yamakawa-ui-kougen_all_scenes.csv",
+    "yamakawa-ui-kougen_all_layers.kml",
+    "yamakawa-ui-kougen_google_maps_links.html",
+    "IMPORT_GUIDE.md",
+    "layers/*.csv",
+    "layers/*.kml"
+  ]
+}

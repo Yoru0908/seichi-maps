@@ -1,0 +1,2710 @@
+{
+  "map_title": "山川宇衣 巡礼マップ合集",
+  "default_layer": "山川宇衣",
+  "scenes": [
+    {
+      "id": "vlog-sendai-opening",
+      "name": "仙台駅周辺 - Vlog冒頭",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "",
+      "scene_title": "四期生Vlog / 仙台駅に来ています",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "地元・仙台駅に来た冒頭カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "駅周辺の公共空間。通行の妨げにならない範囲で確認。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "仙台"
+      ],
+      "lat": 38.260646,
+      "lng": 140.881072
+    },
+    {
+      "id": "vlog-sendai-memory",
+      "name": "仙台駅周辺 - 思い出の場所",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "",
+      "scene_title": "四期生Vlog / 仙台駅周辺",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "学生時代の思い出を話す仙台駅周辺カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "駅周辺の公共空間。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "仙台"
+      ],
+      "lat": 38.260628,
+      "lng": 140.881417
+    },
+    {
+      "id": "vlog-sendai-west-deck",
+      "name": "JR仙台駅西口ペデストリアンデッキ",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "宮城県仙台市青葉区中央1-1-1",
+      "scene_title": "西口ペデストリアンデッキ",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "放課後の思い出とラーメン店へ向かう流れの周辺カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "駅デッキ。混雑時の撮影は控えめに。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "仙台駅"
+      ],
+      "lat": 38.260123,
+      "lng": 140.881697
+    },
+    {
+      "id": "vlog-ramen-billy-sendai",
+      "name": "ラーメン☆ビリー仙台ヨドバシ店",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "宮城県仙台市宮城野区榴岡1-3-1 ヨドバシ仙台第1ビル 1階",
+      "scene_title": "高校時代の定番ラーメン店",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "高校時代によく行ったラーメン店として紹介。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "営業日・混雑状況を確認。店内撮影は許可範囲で。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "仙台",
+        "ラーメン"
+      ],
+      "lat": 38.259404,
+      "lng": 140.884111
+    },
+    {
+      "id": "vlog-sendai-east-deck",
+      "name": "JR仙台駅東口ペデストリアンデッキ",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "宮城県仙台市青葉区中央1-1-1",
+      "scene_title": "東口ペデストリアンデッキ",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "高校・大学の部活話につながる仙台駅東口デッキのカット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "駅デッキ。通行の妨げにならない範囲で確認。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "仙台駅"
+      ],
+      "lat": 38.259598,
+      "lng": 140.883933
+    },
+    {
+      "id": "vlog-matsushima-kaigan-station",
+      "name": "松島海岸駅",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "宮城県宮城郡松島町松島字浪打浜10",
+      "scene_title": "松島海岸駅に来ました",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "松島パート冒頭の駅カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "駅施設。鉄道利用者の妨げにならない範囲で確認。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "松島"
+      ],
+      "lat": 38.369528,
+      "lng": 141.060197
+    },
+    {
+      "id": "vlog-matsushima-sign",
+      "name": "松島海岸駅付近 駐車場の道標",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "宮城県宮城郡松島町松島字浪打浜10",
+      "scene_title": "駐車場にある道標",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "帰りに撮影された道標カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "駐車場周辺。車両に注意。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "松島"
+      ],
+      "lat": 38.369656,
+      "lng": 141.061036
+    },
+    {
+      "id": "vlog-matsushima-walk",
+      "name": "松島海岸駅周辺の通り",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "宮城県宮城郡松島町松島字浪打浜10",
+      "scene_title": "海鮮丼の思い出を話す通り",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "友達と海鮮丼を食べた思い出に触れる周辺カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "観光地の歩道。混雑に注意。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "松島"
+      ],
+      "lat": 38.369588,
+      "lng": 141.061324
+    },
+    {
+      "id": "vlog-rikyu-matsushima",
+      "name": "牛たん炭焼 利久 松島五大堂店",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "宮城県宮城郡松島町松島町内112-2",
+      "scene_title": "さくら雪見団子 / 利久 松島五大堂店",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "桜味の団子を選んだくだりの店舗。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "営業情報を確認。店内撮影は許可範囲で。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "松島",
+        "利久"
+      ],
+      "reference_url": "https://www.rikyu-gyutan.co.jp/corpo/info/mg/",
+      "lat": 38.370737,
+      "lng": 141.064483
+    },
+    {
+      "id": "vlog-fukuura-bridge-approach",
+      "name": "福浦橋付近",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "宮城県宮城郡松島町松島字仙随39-1",
+      "scene_title": "福浦橋にやってきました",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "橋を渡って話す前の福浦橋周辺カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "橋の通行料金・開放状況を確認。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "福浦橋"
+      ],
+      "lat": 38.370725,
+      "lng": 141.067331
+    },
+    {
+      "id": "vlog-fukuura-bridge",
+      "name": "福浦橋",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "宮城県宮城郡松島町松島字仙随39-1",
+      "scene_title": "福浦橋 / 福浦島へ渡る橋",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "オーディション応募や今後の抱負を話す橋周辺カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "通行料金・開放状況を確認。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "福浦橋"
+      ],
+      "lat": 38.367606,
+      "lng": 141.069947
+    },
+    {
+      "id": "vlog-saigyo-park",
+      "name": "西行戻しの松公園 白衣観音前の広場",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "宮城県宮城郡松島町松島犬田2",
+      "scene_title": "松島の締めカット",
+      "scene_ref": "2025-04-24 article",
+      "scene_note": "松島を見渡す白衣観音前の広場。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59133579.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "公園。季節・駐車場状況を確認。",
+      "tags": [
+        "山川宇衣",
+        "Vlog",
+        "松島",
+        "公園"
+      ],
+      "lat": 38.366311,
+      "lng": 141.053706,
+      "reference_url": "https://www.matsushima-kanko.com/miru/detail.php?id=137"
+    },
+    {
+      "id": "camp-shiseiso",
+      "name": "至誠荘",
+      "layer": "四期生合宿 - 山中湖",
+      "category": "Scene",
+      "address": "山梨県南都留郡山中湖村平野1811",
+      "scene_title": "四期生合宿 / 至誠荘",
+      "scene_ref": "2025-05-22 article",
+      "scene_note": "四期生合宿の拠点。山川宇衣はA班として記事内に記載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59195794.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "宿泊・研修施設。利用や見学可否は施設案内を確認。",
+      "tags": [
+        "山川宇衣",
+        "四期生合宿",
+        "山中湖"
+      ],
+      "reference_url": "http://shiseiso.la.coocan.jp/",
+      "lat": 35.424361,
+      "lng": 138.905639
+    },
+    {
+      "id": "camp-ogino-yamanakako",
+      "name": "オギノ 山中湖店",
+      "layer": "四期生合宿 - 山中湖",
+      "category": "Scene",
+      "address": "山梨県南都留郡山中湖村山中865-5",
+      "scene_title": "Episode 03 / 買い出し",
+      "scene_ref": "2025-05-22 article",
+      "scene_note": "メンバー全員で夕食を作るため買い出しに行った店舗。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59195794.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "店舗利用時は営業情報を確認。",
+      "tags": [
+        "四期生合宿",
+        "山中湖",
+        "買い出し"
+      ],
+      "reference_url": "https://www.ogino.co.jp/spotsearch/810",
+      "lat": 35.431319,
+      "lng": 138.844082
+    },
+    {
+      "id": "camp-hirano-hama-visit",
+      "name": "平野の浜",
+      "layer": "四期生合宿 - 山中湖",
+      "category": "Scene",
+      "address": "山梨県南都留郡山中湖村平野",
+      "scene_title": "Episode 01 / 合宿場所へ訪問",
+      "scene_ref": "2025-05-22 article",
+      "scene_note": "村井優・山下瞳月が合宿場所に訪れた場面の湖畔。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59195794.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "湖畔の公共エリア。天候と駐車場に注意。",
+      "tags": [
+        "四期生合宿",
+        "山中湖",
+        "平野の浜"
+      ],
+      "lat": 35.424422,
+      "lng": 138.900984
+    },
+    {
+      "id": "camp-route-715",
+      "name": "県道715号 / サイクリングロード",
+      "layer": "四期生合宿 - 山中湖",
+      "category": "Scene",
+      "address": "山梨県南都留郡山中湖村平野",
+      "scene_title": "県道715号 / サイクリングロード",
+      "scene_ref": "2025-05-22 article",
+      "scene_note": "合宿ドキュメンタリー内のサイクリングロード周辺カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59195794.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "歩行者・自転車の通行を妨げない。",
+      "tags": [
+        "四期生合宿",
+        "山中湖",
+        "サイクリングロード"
+      ],
+      "lat": 35.426294,
+      "lng": 138.900592
+    },
+    {
+      "id": "camp-path-to-shiseiso",
+      "name": "至誠荘への小径",
+      "layer": "四期生合宿 - 山中湖",
+      "category": "Scene",
+      "address": "山梨県南都留郡山中湖村平野",
+      "scene_title": "至誠荘への小径",
+      "scene_ref": "2025-05-22 article",
+      "scene_note": "至誠荘へ向かう小径として整理されているカット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59195794.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "私道・施設敷地に入らない。",
+      "tags": [
+        "四期生合宿",
+        "山中湖"
+      ],
+      "lat": 35.424908,
+      "lng": 138.903822
+    },
+    {
+      "id": "camp-fujiyoshida-yamanakako-cycle",
+      "name": "富士吉田山中湖自転車道線",
+      "layer": "四期生合宿 - 山中湖",
+      "category": "Scene",
+      "address": "山梨県南都留郡山中湖村平野",
+      "scene_title": "Episode 02 / 2日目早朝散歩",
+      "scene_ref": "2025-05-22 article",
+      "scene_note": "2日目早朝散歩のカット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59195794.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "歩行者・自転車の通行を妨げない。",
+      "tags": [
+        "四期生合宿",
+        "山中湖",
+        "早朝散歩"
+      ],
+      "lat": 35.425122,
+      "lng": 138.899017
+    },
+    {
+      "id": "camp-hirano-hama-day3",
+      "name": "平野の浜 - 3日目早朝散歩",
+      "layer": "四期生合宿 - 山中湖",
+      "category": "Scene",
+      "address": "山梨県南都留郡山中湖村平野",
+      "scene_title": "Episode 03 / 3日目早朝散歩",
+      "scene_ref": "2025-05-22 article",
+      "scene_note": "3日目早朝散歩の平野の浜カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59195794.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "湖畔の公共エリア。",
+      "tags": [
+        "四期生合宿",
+        "山中湖",
+        "平野の浜"
+      ],
+      "lat": 35.424172,
+      "lng": 138.900019
+    },
+    {
+      "id": "camp-akashiba-shore",
+      "name": "赤芝荘前の湖畔",
+      "layer": "四期生合宿 - 山中湖",
+      "category": "Scene",
+      "address": "山梨県南都留郡山中湖村平野2279",
+      "scene_title": "Episode 04 / 4日目早朝散歩",
+      "scene_ref": "2025-05-22 article",
+      "scene_note": "4日目早朝散歩の湖畔カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59195794.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "湖畔周辺。宿泊施設や私有地に入らない。",
+      "tags": [
+        "四期生合宿",
+        "山中湖",
+        "早朝散歩"
+      ],
+      "lat": 35.428803,
+      "lng": 138.892011
+    },
+    {
+      "id": "mag2025-tokura-terrace",
+      "name": "戸倉しろやまテラス",
+      "layer": "雑誌写真 - 2025",
+      "category": "Scene",
+      "address": "東京都あきる野市戸倉325",
+      "scene_title": "週刊少年マガジン 2025 No.36+37 / 教室・遊具",
+      "scene_ref": "2025-08-06 article (blog「好きなこと」2025-08-07 で再掲)",
+      "scene_note": "教室、滑り台、ジャングルジムの撮影場所として旧戸倉小学校の施設を掲載。soy casa は個人宅扱いのため除外。blog「好きなこと」(2025-08-07) でもマガジン撮影場所として再掲。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59344112.html",
+      "source_label": "fumi Diary 2号店 (マガジン 59344112 / blog「好きなこと」59345419)",
+      "confidence": "confirmed",
+      "access_note": "施設の開館日・撮影可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "週刊少年マガジン",
+        "blog",
+        "戸倉しろやまテラス"
+      ],
+      "reference_url": "http://tokura-taiken.jp/",
+      "lat": 35.725878,
+      "lng": 139.203699
+    },
+    {
+      "id": "blog-koshigoe-crossing",
+      "name": "腰越海岸交差点横断歩道 / 国道134号線",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Scene",
+      "address": "神奈川県鎌倉市腰越3-11-12",
+      "scene_title": "blog「好きなこと」 / 腰越海岸交差点",
+      "scene_ref": "2025-08-07 article",
+      "scene_note": "ブログ写真の横断歩道・国道134号線カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59345419.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "交通量が多い道路。横断・撮影は安全最優先。",
+      "tags": [
+        "山川宇衣",
+        "blog",
+        "腰越"
+      ],
+      "lat": 35.308352,
+      "lng": 139.489126
+    },
+    {
+      "id": "greeting-202509-koshigoe",
+      "name": "腰越海岸",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Scene",
+      "address": "神奈川県鎌倉市腰越3丁目",
+      "scene_title": "2025年9月グリーティングカード / 腰越海岸",
+      "scene_ref": "2025-09-04 article",
+      "scene_note": "腰越港4号防波堤灯台が見えるグリーティングカード写真の場所。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59394901.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "海岸。天候・波・近隣の迷惑に注意。",
+      "tags": [
+        "山川宇衣",
+        "グリーティングカード",
+        "腰越海岸"
+      ],
+      "lat": 35.308122,
+      "lng": 139.489011
+    },
+    {
+      "id": "blog-uka-aux-merveilleux",
+      "name": "Aux merveilleux de Fred 神楽坂店",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Scene",
+      "address": "東京都新宿区矢来町107-2",
+      "scene_title": "blog「羽化」 / カフェ",
+      "scene_ref": "2025-09-21 article",
+      "scene_note": "目黒陽色と出かけたブログ写真のカフェ。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59429929.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "営業情報を確認。店内撮影は許可範囲で。",
+      "tags": [
+        "山川宇衣",
+        "blog",
+        "神楽坂"
+      ],
+      "reference_url": "https://auxmerveilleux.com/ja/",
+      "lat": 35.703708,
+      "lng": 139.734744
+    },
+    {
+      "id": "blog-uka-tsurugaoka",
+      "name": "鶴岡八幡宮 おみくじ結び所付近",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Scene",
+      "address": "神奈川県鎌倉市雪ノ下2-1-31",
+      "scene_title": "blog「羽化」 / 鶴岡八幡宮",
+      "scene_ref": "2025-09-21 article",
+      "scene_note": "鳩みくじ・神紋に触れた鶴岡八幡宮のおみくじ結び所周辺。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59429929.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "probable",
+      "access_note": "神社境内。参拝者の妨げにならない範囲で確認。",
+      "tags": [
+        "山川宇衣",
+        "blog",
+        "鶴岡八幡宮"
+      ],
+      "lat": 35.326042,
+      "lng": 139.556417,
+      "reference_url": "https://www.hachimangu.or.jp/"
+    },
+    {
+      "id": "blog-meutsuri-koko-do",
+      "name": "山ノ内宮下小路隧道 / 好好洞",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Scene",
+      "address": "神奈川県鎌倉市山ノ内610",
+      "scene_title": "blog「目移りの秋」 / 好好洞北側出口",
+      "scene_ref": "2025-10-16 article",
+      "scene_note": "好好洞の北側出口として整理されているブログ写真。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59476386.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "狭いトンネル周辺。通行の妨げにならない範囲で確認。",
+      "tags": [
+        "山川宇衣",
+        "blog",
+        "鎌倉",
+        "好好洞"
+      ],
+      "lat": 35.334694,
+      "lng": 139.544139
+    },
+    {
+      "id": "blog-butter-yellow-the3rd",
+      "name": "The 3rd.Shibuya",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Scene",
+      "address": "東京都渋谷区神泉町12-4 アーガス神泉ビル 4F",
+      "scene_title": "blog「バターイエローの夏」 / アサイーボウル",
+      "scene_ref": "2025-10-13 article",
+      "scene_note": "ブログ内のアサイーボウル写真の店舗。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59470718.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "営業情報を確認。店内撮影は許可範囲で。",
+      "tags": [
+        "山川宇衣",
+        "blog",
+        "渋谷"
+      ],
+      "reference_url": "https://wbgr.jp/the3rd-shibuya/",
+      "lat": 35.655839,
+      "lng": 139.692713
+    },
+    {
+      "id": "blt-202511-jumonji",
+      "name": "十文字学園女子大学",
+      "layer": "雑誌写真 - 2025",
+      "category": "Scene",
+      "address": "埼玉県新座市菅沢2-1-28",
+      "scene_title": "B.L.T. 2025年11月号 / 四期生屋上",
+      "scene_ref": "2025-09-16 article",
+      "scene_note": "四期生が登場したB.L.T.撮影で、1号棟(B)屋上・記念ホールが見える場所として掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59416586.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "probable",
+      "access_note": "大学キャンパス。一般立入・撮影可否を事前確認。無断立入不可。",
+      "tags": [
+        "山川宇衣",
+        "B.L.T.",
+        "四期生"
+      ],
+      "reference_url": "https://www.jumonji-u.ac.jp/",
+      "lat": 35.800205,
+      "lng": 139.550861
+    },
+    {
+      "id": "vivi-202511-purple",
+      "name": "Purple スタジオ",
+      "layer": "雑誌写真 - 2025",
+      "category": "Scene",
+      "address": "東京都江東区塩浜2-2-10 ヒキタカ木場ビル8F",
+      "scene_title": "ViVi 2025年11月号 / 四期生",
+      "scene_ref": "2025-09-27 article",
+      "scene_note": "四期生のViVi撮影場所として掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59440654.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "撮影スタジオ。利用・見学可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "ViVi",
+        "四期生"
+      ],
+      "reference_url": "http://studio.see-inc.jp/purple/",
+      "lat": 35.662966,
+      "lng": 139.803117
+    },
+    {
+      "id": "yj-2025-contact-studio",
+      "name": "CONTACT STUDIO",
+      "layer": "雑誌写真 - 2025",
+      "category": "Scene",
+      "address": "千葉県山武郡九十九里町作田5633-28",
+      "scene_title": "週刊ヤングジャンプ 2025 No.48 / 表紙",
+      "scene_ref": "2025-11-17 article",
+      "scene_note": "山川宇衣の週刊ヤングジャンプ表紙撮影場所として掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59534473.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "撮影スタジオ。利用・見学可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "ヤングジャンプ",
+        "九十九里"
+      ],
+      "reference_url": "http://www.contact-studio.com/",
+      "lat": 35.541933,
+      "lng": 140.458754
+    },
+    {
+      "id": "flash-202512-studio-molca",
+      "name": "STUDIO MOLCA",
+      "layer": "雑誌写真 - 2025",
+      "category": "Scene",
+      "address": "東京都世田谷区等々力7-24-13",
+      "scene_title": "FLASH 2025.12.02-09 / 室内カット",
+      "scene_ref": "2025-11-18 article",
+      "scene_note": "1Fリビング・キッチンの撮影場所として掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59536364.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "撮影スタジオ。利用・見学可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "FLASH",
+        "STUDIO MOLCA"
+      ],
+      "reference_url": "https://www.instagram.com/studio_molca/",
+      "lat": 35.615428,
+      "lng": 139.653252
+    },
+    {
+      "id": "bomb-202511-suginami-studio",
+      "name": "杉並ハウススタジオ",
+      "layer": "雑誌写真 - 2025",
+      "category": "Scene",
+      "address": "東京都杉並区成田東2-9-6",
+      "scene_title": "BOMB 2025年11月号 / ハウススタジオ",
+      "scene_ref": "2025-11-22 article",
+      "scene_note": "BOMB撮影場所として掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59543470.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "撮影スタジオ。利用・見学可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "BOMB",
+        "杉並"
+      ],
+      "reference_url": "http://www.ganesya.com/suginami-studio/index.html",
+      "lat": 35.687806,
+      "lng": 139.634415
+    },
+    {
+      "id": "bomb-202511-zenpukuji",
+      "name": "善福寺川緑地",
+      "layer": "雑誌写真 - 2025",
+      "category": "Scene",
+      "address": "東京都杉並区成田東2丁目7",
+      "scene_title": "BOMB 2025年11月号 / 緑地カット候補",
+      "scene_ref": "2025-11-22 article",
+      "scene_note": "記事では付近の善福寺川緑地だと思うが確認しきれていない、としている。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59543470.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "needs-review",
+      "access_note": "公園。現地確認が必要。",
+      "tags": [
+        "山川宇衣",
+        "BOMB",
+        "善福寺川緑地"
+      ],
+      "lat": 35.688889,
+      "lng": 139.6375
+    },
+    {
+      "id": "sweet2026-tatsumi-octopus",
+      "name": "辰巳の森緑道公園 - たこ広場",
+      "layer": "雑誌写真 - 2026",
+      "category": "Scene",
+      "address": "東京都江東区辰巳1丁目12",
+      "scene_title": "20±SWEET 2026 JANUARY / たこ広場",
+      "scene_ref": "2026-01-08 article",
+      "scene_note": "タコの滑り台がある広場として掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59629735.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "公園。遊具利用者の妨げにならない範囲で確認。",
+      "tags": [
+        "山川宇衣",
+        "20±SWEET",
+        "辰巳の森緑道公園"
+      ],
+      "lat": 35.647717,
+      "lng": 139.813083,
+      "reference_url": "https://www.tptc.co.jp/park/03_02"
+    },
+    {
+      "id": "sweet2026-tatsumi-panda",
+      "name": "辰巳の森緑道公園 - パンダ広場",
+      "layer": "雑誌写真 - 2026",
+      "category": "Scene",
+      "address": "東京都江東区辰巳1丁目12",
+      "scene_title": "20±SWEET 2026 JANUARY / パンダ広場",
+      "scene_ref": "2026-01-08 article",
+      "scene_note": "パンダのスプリング遊具がある広場として掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59629735.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "公園。遊具利用者の妨げにならない範囲で確認。",
+      "tags": [
+        "山川宇衣",
+        "20±SWEET",
+        "辰巳の森緑道公園"
+      ],
+      "lat": 35.647625,
+      "lng": 139.813153,
+      "reference_url": "https://www.tptc.co.jp/park/03_02"
+    },
+    {
+      "id": "sweet2026-studio-hyne",
+      "name": "studio HYNE",
+      "layer": "雑誌写真 - 2026",
+      "category": "Scene",
+      "address": "東京都新宿区四谷1-18 オオノヤビル 8F",
+      "scene_title": "20±SWEET 2026 JANUARY / studio HYNE",
+      "scene_ref": "2026-01-08 article",
+      "scene_note": "20±SWEET撮影場所として掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59629735.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "撮影スタジオ。利用・見学可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "20±SWEET",
+        "studio HYNE"
+      ],
+      "reference_url": "https://eano.jp/studio-hyne/",
+      "lat": 35.686528,
+      "lng": 139.728778
+    },
+    {
+      "id": "mag2026-rokugo-park",
+      "name": "六郷土手河川敷公園",
+      "layer": "雑誌写真 - 2026",
+      "category": "Scene",
+      "address": "東京都大田区南六郷2丁目",
+      "scene_title": "週刊少年マガジン 2026 No.22+23 / 河川敷",
+      "scene_ref": "2026-04-28 article",
+      "scene_note": "UR南六郷2丁目団地が後方に見える河川敷カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59817329.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "河川敷公園。天候・増水に注意。",
+      "tags": [
+        "山川宇衣",
+        "週刊少年マガジン",
+        "六郷土手"
+      ],
+      "lat": 35.53975,
+      "lng": 139.712611
+    },
+    {
+      "id": "mag2026-rokugo-sluice",
+      "name": "六郷水門付近の建築物",
+      "layer": "雑誌写真 - 2026",
+      "category": "Scene",
+      "address": "東京都大田区南六郷2丁目35",
+      "scene_title": "週刊少年マガジン 2026 No.22+23 / 六郷水門付近",
+      "scene_ref": "2026-04-28 article",
+      "scene_note": "記事ではGoogle Map上に情報がない建築物として座標を掲載。室内ハウススタジオは不明のため除外。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59817329.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "水門周辺。立入禁止区域や管理区域に入らない。",
+      "tags": [
+        "山川宇衣",
+        "週刊少年マガジン",
+        "六郷水門"
+      ],
+      "lat": 35.539889,
+      "lng": 139.712861
+    },
+    {
+      "id": "alter-ego-clairiere",
+      "name": "三橋の森 ラ・クラリエール",
+      "layer": "四期生PV・グループMV",
+      "category": "Scene",
+      "address": "埼玉県さいたま市大宮区三橋1丁目1331",
+      "scene_title": "櫻坂46「Alter ego」PV / チャペル・披露宴会場",
+      "scene_ref": "2025-09-26 article",
+      "scene_note": "山川宇衣が1列目に入る四期生曲PVの撮影場所。八角形チャペルと披露宴会場として掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59438651.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "結婚式場。見学・撮影可否は施設案内を確認。",
+      "tags": [
+        "山川宇衣",
+        "Alter ego",
+        "四期生"
+      ],
+      "reference_url": "https://la-clairiere.jp/",
+      "lat": 35.905963,
+      "lng": 139.603852,
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/1/d/1d5d2472-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/1/d/1d5d2472.jpg",
+          "label": "Alter ego PV / チャペル"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/3/5/351ddef2-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/3/5/351ddef2.jpg",
+          "label": "Alter ego PV / チャペル 2"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/8/c/8cb9dbdf-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/8/c/8cb9dbdf.jpg",
+          "label": "Alter ego PV / 披露宴会場"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/f/e/fe1ee602-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/f/e/fe1ee602.jpg",
+          "label": "Alter ego PV / 披露宴会場 2"
+        }
+      ]
+    },
+    {
+      "id": "shindafuri-gakugei-high-ref",
+      "name": "東京学芸大学附属高等学校 - 参考のみ",
+      "layer": "四期生PV・グループMV",
+      "category": "Scene",
+      "address": "東京都世田谷区下馬4-1-5",
+      "scene_title": "櫻坂46「死んだふり」PV / 参考地点",
+      "scene_ref": "2025-06-16 article",
+      "scene_note": "PV撮影場所として記事に掲載。ただし運営中の学校施設のため巡礼訪問対象ではなく参考地点扱い。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59249136.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "学校施設。敷地内立入・撮影・待機は不可。公開地図上の参考点として扱う。",
+      "tags": [
+        "山川宇衣",
+        "死んだふり",
+        "参考のみ"
+      ],
+      "reference_url": "https://www.gakugei-hs.setagaya.tokyo.jp/",
+      "lat": 35.634693,
+      "lng": 139.677415,
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/2/8/289956af-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/2/8/289956af.jpg",
+          "label": "死んだふり PV / 第一体育館"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/a/7/a7c7cd4a-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/a/7/a7c7cd4a.jpg",
+          "label": "死んだふり PV / 第一体育館 2"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/a/d/ad681bf9-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/a/d/ad681bf9.jpg",
+          "label": "死んだふり PV / 講堂"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/1/f/1f55fd05-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/1/f/1f55fd05.jpg",
+          "label": "死んだふり PV / 中庭"
+        }
+      ]
+    },
+    {
+      "id": "uitan-americaya",
+      "name": "アメリカヤ",
+      "layer": "個人PV - UITAN",
+      "category": "Scene",
+      "address": "山梨県韮崎市中央町10-17",
+      "scene_title": "「UITAN」個人PV / 屋上",
+      "scene_ref": "2026-03-04 article",
+      "scene_note": "個人PVの屋上シーンとしてアメリカヤを掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59722391.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "施設の営業・利用可否を確認。屋上等の立入は許可範囲内のみ。",
+      "tags": [
+        "山川宇衣",
+        "UITAN",
+        "韮崎"
+      ],
+      "reference_url": "https://americaya1967.jp/",
+      "lat": 35.709982,
+      "lng": 138.449857
+    },
+    {
+      "id": "uitan-kamanashi-river",
+      "name": "釜無川河川緑地",
+      "layer": "個人PV - UITAN",
+      "category": "Scene",
+      "address": "山梨県韮崎市水神2丁目7",
+      "scene_title": "「UITAN」個人PV / 釜無川河川緑地",
+      "scene_ref": "2026-03-04 article",
+      "scene_note": "釜無川河川緑地のカット。記事では座標付近として掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59722391.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "probable",
+      "access_note": "河川敷。天候・増水に注意。",
+      "tags": [
+        "山川宇衣",
+        "UITAN",
+        "釜無川"
+      ],
+      "lat": 35.708178,
+      "lng": 138.441114
+    },
+    {
+      "id": "uitan-yupool",
+      "name": "ゆ～ぷるにらさき 韮崎市健康ふれあいセンター",
+      "layer": "個人PV - UITAN",
+      "category": "Scene",
+      "address": "山梨県韮崎市中田町中條1800-1",
+      "scene_title": "「UITAN」個人PV / ウォーターガーデン",
+      "scene_ref": "2026-03-04 article",
+      "scene_note": "ウォーターガーデンの場面として掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59722391.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "施設の営業・利用可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "UITAN",
+        "韮崎"
+      ],
+      "reference_url": "https://yu-pool-nirasaki.com/",
+      "lat": 35.74793,
+      "lng": 138.437743
+    },
+    {
+      "id": "uitan-miraku",
+      "name": "中華飯店 味楽",
+      "layer": "個人PV - UITAN",
+      "category": "Scene",
+      "address": "山梨県甲斐市竜王1045-1",
+      "scene_title": "「UITAN」個人PV / 店前",
+      "scene_ref": "2026-03-04 article",
+      "scene_note": "店前のカット。隣の看板が見えると記事に記載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59722391.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "営業情報を確認。店内撮影は許可範囲で。",
+      "tags": [
+        "山川宇衣",
+        "UITAN",
+        "甲斐市"
+      ],
+      "lat": 35.667395,
+      "lng": 138.508752
+    },
+    {
+      "id": "uitan-ryuo-footbridge",
+      "name": "竜王北小学校前横断歩道橋",
+      "layer": "個人PV - UITAN",
+      "category": "Scene",
+      "address": "山梨県甲斐市竜王522-1",
+      "scene_title": "「UITAN」個人PV / 横断歩道橋",
+      "scene_ref": "2026-03-04 article",
+      "scene_note": "竜王北小学校前横断歩道橋として座標付きで掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59722391.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "学校付近。通学時間帯の撮影・滞留は避ける。",
+      "tags": [
+        "山川宇衣",
+        "UITAN",
+        "歩道橋"
+      ],
+      "lat": 35.668581,
+      "lng": 138.507425
+    },
+    {
+      "id": "solo-camp-hanahana",
+      "name": "花はなの里 オートキャンプ場",
+      "layer": "山川宇衣 Vlog - ソロキャンプ",
+      "category": "Scene",
+      "address": "千葉県富津市上648",
+      "scene_title": "はじめてのソロキャンプ / B-2サイト候補",
+      "scene_ref": "2026-04-17 article",
+      "scene_note": "ソロキャンプ動画のキャンプ場。記事では場所はたぶんB-2サイトと推定。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59798375.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "probable",
+      "access_note": "キャンプ場。予約・利用者以外の立入可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "ソロキャンプ",
+        "花はなの里"
+      ],
+      "reference_url": "https://hanahananosato.com/camp",
+      "lat": 35.253611,
+      "lng": 139.9575
+    },
+    {
+      "id": "sonohi-hakunokokomae",
+      "name": "弘南鉄道弘南線 柏農高校前駅",
+      "layer": "個人PV - その日、その場所で出会う。",
+      "category": "Scene",
+      "address": "青森県平川市荒田南岡部18-3",
+      "scene_title": "赤色の駅舎 / 田んぼの雪景色",
+      "scene_ref": "2026-05-20 article",
+      "scene_note": "赤色の駅舎、ホームから見える田んぼの雪景色、引座川頭首工の樋門ハウスが見えるカット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59848589.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "駅利用者の妨げにならない範囲で確認。線路内立入不可。",
+      "tags": [
+        "山川宇衣",
+        "その日、その場所で出会う",
+        "青森",
+        "弘南鉄道"
+      ],
+      "reference_url": "https://konantetsudo.jp/station/station-konan/station-konan07/",
+      "lat": 40.600776,
+      "lng": 140.564961
+    },
+    {
+      "id": "sonohi-gijukukokomae",
+      "name": "弘南鉄道大鰐線 義塾高校前駅",
+      "layer": "個人PV - その日、その場所で出会う。",
+      "category": "Scene",
+      "address": "青森県弘前市大字石川字野崎69-2",
+      "scene_title": "義塾高校前駅",
+      "scene_ref": "2026-05-20 article",
+      "scene_note": "個人PVの駅シーンとして掲載。踏切推定カットは確定度が低いため駅本体のみ収録。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59848589.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "駅利用者の妨げにならない範囲で確認。線路・踏切周辺は安全優先。",
+      "tags": [
+        "山川宇衣",
+        "その日、その場所で出会う",
+        "青森",
+        "弘南鉄道"
+      ],
+      "reference_url": "https://konantetsudo.jp/station/station-owani/station-owani09/",
+      "lat": 40.559389,
+      "lng": 140.518667
+    },
+    {
+      "id": "sonohi-sabaishi",
+      "name": "弘南鉄道大鰐線 鯖石駅",
+      "layer": "個人PV - その日、その場所で出会う。",
+      "category": "Scene",
+      "address": "青森県南津軽郡大鰐町大字鯖石字桜ノ木3-4",
+      "scene_title": "待合室の中 / ホームの端",
+      "scene_ref": "2026-05-20 article",
+      "scene_note": "待合室内とホーム端のカットとして掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59848589.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "駅利用者の妨げにならない範囲で確認。線路内立入不可。",
+      "tags": [
+        "山川宇衣",
+        "その日、その場所で出会う",
+        "青森",
+        "弘南鉄道"
+      ],
+      "reference_url": "https://konantetsudo.jp/station/station-owani/station-owani12/",
+      "lat": 40.535766,
+      "lng": 140.552803
+    },
+    {
+      "id": "sonohi-tsutanuma",
+      "name": "蔦沼展望台",
+      "layer": "個人PV - その日、その場所で出会う。",
+      "category": "Scene",
+      "address": "青森県十和田市奥瀬",
+      "scene_title": "蔦沼展望台",
+      "scene_ref": "2026-05-20 article",
+      "scene_note": "個人PVの自然景観カットとして蔦沼展望台を掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59848589.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "probable",
+      "access_note": "季節・歩道・入場規制を確認。自然環境保護に配慮。",
+      "tags": [
+        "山川宇衣",
+        "その日、その場所で出会う",
+        "青森",
+        "蔦沼"
+      ],
+      "lat": 40.5925,
+      "lng": 140.957222
+    },
+    {
+      "id": "sonohi-tsutaonsen",
+      "name": "蔦温泉旅館 久安の湯",
+      "layer": "個人PV - その日、その場所で出会う。",
+      "category": "Scene",
+      "address": "青森県十和田市奥瀬蔦野湯1",
+      "scene_title": "久安の湯",
+      "scene_ref": "2026-05-20 article",
+      "scene_note": "久安の湯のカットとして蔦温泉旅館を掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59848589.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "旅館・温泉施設。利用条件、撮影可否、日帰り可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "その日、その場所で出会う",
+        "青森",
+        "蔦温泉"
+      ],
+      "reference_url": "https://tsutaonsen.com/",
+      "lat": 40.59681,
+      "lng": 140.953075
+    },
+    {
+      "id": "sonohi-irodori",
+      "name": "手作り雑貨体験工房IRODORI",
+      "layer": "個人PV - その日、その場所で出会う。",
+      "category": "Scene",
+      "address": "青森県黒石市中町38",
+      "scene_title": "手作り雑貨体験工房IRODORI",
+      "scene_ref": "2026-05-20 article",
+      "scene_note": "個人PVの黒石エリアの店内/体験工房カットとして掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59848589.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "営業情報・体験予約・撮影可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "その日、その場所で出会う",
+        "黒石"
+      ],
+      "reference_url": "https://www.facebook.com/irodorikuroishi/",
+      "lat": 40.644645,
+      "lng": 140.596308
+    },
+    {
+      "id": "sonohi-suzunoya",
+      "name": "すずのや",
+      "layer": "個人PV - その日、その場所で出会う。",
+      "category": "Scene",
+      "address": "青森県黒石市前町1-3",
+      "scene_title": "黒石つゆやきそば",
+      "scene_ref": "2026-05-20 article",
+      "scene_note": "黒石つゆやきそばの場面としてすずのやを掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59848589.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "営業情報を確認。店内撮影は許可範囲で。",
+      "tags": [
+        "山川宇衣",
+        "その日、その場所で出会う",
+        "黒石",
+        "つゆやきそば"
+      ],
+      "lat": 40.643952,
+      "lng": 140.596128
+    },
+    {
+      "id": "sonohi-takahashi-house",
+      "name": "高橋家住宅",
+      "layer": "個人PV - その日、その場所で出会う。",
+      "category": "Scene",
+      "address": "青森県黒石市中町38",
+      "scene_title": "高橋家住宅",
+      "scene_ref": "2026-05-20 article",
+      "scene_note": "個人PVの黒石エリアの歴史的建物カットとして掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59848589.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "公開状況・見学時間を確認。",
+      "tags": [
+        "山川宇衣",
+        "その日、その場所で出会う",
+        "黒石"
+      ],
+      "reference_url": "https://www.city.kuroishi.aomori.jp/kankou/spot/kankou/machikado/takahashi.html",
+      "lat": 40.644645,
+      "lng": 140.596308
+    },
+    {
+      "id": "kougen-fika-yamakawa-ui",
+      "name": "FIKA Lounge 南行徳 - 山川宇衣 洋室部屋",
+      "layer": "光源 PV",
+      "category": "Scene",
+      "address": "千葉県市川市欠真間2-16-12 つくば5号館",
+      "scene_title": "山川宇衣 / 洋室部屋",
+      "scene_ref": "櫻坂46「光源」PV / 2026-02-28 article",
+      "scene_note": "山川宇衣のカットをFIKA Lounge南行徳の洋室部屋として照合。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59716400.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "probable",
+      "access_note": "撮影スタジオ/レンタルスペース。訪問可否、予約、撮影可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "光源",
+        "FIKA Lounge 南行徳"
+      ],
+      "reference_url": "https://shootest.jp/studio/s1376/",
+      "lat": 35.678102,
+      "lng": 139.904124,
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/d/7/d79efac9-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/d/7/d79efac9.jpg",
+          "label": "光源 PV / 山川宇衣 洋室部屋"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/4/a/4ac5c555-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/4/a/4ac5c555.jpg",
+          "label": "光源 PV / 山川宇衣 洋室部屋 2"
+        }
+      ]
+    },
+    {
+      "id": "kougen-fika-yamada",
+      "name": "FIKA Lounge 南行徳 - 山田桃実 バルコニー",
+      "layer": "光源 PV",
+      "category": "Scene",
+      "address": "千葉県市川市欠真間2-16-12 つくば5号館",
+      "scene_title": "山田桃実 / バルコニー",
+      "scene_ref": "櫻坂46「光源」PV / 2026-02-28 article",
+      "scene_note": "後ろに送電塔が見えるバルコニーのカット。山川宇衣カットと同施設。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59716400.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "probable",
+      "access_note": "撮影スタジオ/レンタルスペース。訪問可否、予約、撮影可否を確認。",
+      "tags": [
+        "光源",
+        "FIKA Lounge 南行徳"
+      ],
+      "reference_url": "https://shootest.jp/studio/s1376/",
+      "lat": 35.678102,
+      "lng": 139.904124,
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/7/b/7b2d3d1d-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/7/b/7b2d3d1d.jpg",
+          "label": "光源 PV / 山田桃実 バルコニー"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/8/a/8acd840a-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/8/a/8acd840a.jpg",
+          "label": "光源 PV / 山田桃実 バルコニー 2"
+        }
+      ]
+    },
+    {
+      "id": "kougen-gyotoku-substation",
+      "name": "東京電力パワーグリッド 行徳変電所付近",
+      "layer": "光源 PV",
+      "category": "Scene",
+      "address": "千葉県市川市欠真間2-5-12",
+      "scene_title": "勝又春 / 送電塔付近",
+      "scene_ref": "櫻坂46「光源」PV / 2026-02-28 article",
+      "scene_note": "送電塔付近として行徳変電所と座標が掲載。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59716400.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "変電所はインフラ施設。敷地内に入らず、公道から確認。",
+      "tags": [
+        "光源",
+        "行徳変電所"
+      ],
+      "lat": 35.678231,
+      "lng": 139.904897,
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/f/f/ff86327d-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/f/f/ff86327d.jpg",
+          "label": "光源 PV / 勝又春 行徳変電所"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/1/b/1b54a304-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/1/b/1b54a304.jpg",
+          "label": "光源 PV / 勝又春 行徳変電所 2"
+        }
+      ]
+    },
+    {
+      "id": "kougen-jfe-dance",
+      "name": "JFE条鋼 鹿島製造所 - ダンスシーン",
+      "layer": "光源 PV",
+      "category": "Scene",
+      "address": "茨城県神栖市南浜7",
+      "scene_title": "ダンスシーン / 私道",
+      "scene_ref": "櫻坂46「光源」PV / 2026-02-28 article",
+      "scene_note": "ダンスシーンをJFE条鋼鹿島製造所の私道として整理。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59716400.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "probable",
+      "access_note": "私有地・敷地内立入不可。敷地外からの確認に限定。",
+      "tags": [
+        "光源",
+        "JFE条鋼",
+        "鹿島製造所"
+      ],
+      "reference_url": "https://www.city.kamisu.ibaraki.jp/kanko_sports/kamisu_fc/1008594/1008597/1008894.html",
+      "lat": 35.880173,
+      "lng": 140.732488,
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/7/c/7cbf04c7-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/7/c/7cbf04c7.jpg",
+          "label": "光源 PV / JFE ダンスシーン"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/c/0/c052421f-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/c/0/c052421f.jpg",
+          "label": "光源 PV / JFE ダンスシーン 2"
+        }
+      ]
+    },
+    {
+      "id": "kougen-jfe-matsumoto",
+      "name": "JFE条鋼 鹿島製造所 - 松本和子 鋼材置き場",
+      "layer": "光源 PV",
+      "category": "Scene",
+      "address": "茨城県神栖市南浜7",
+      "scene_title": "松本和子 / 鋼材置き場",
+      "scene_ref": "櫻坂46「光源」PV / 2026-02-28 article",
+      "scene_note": "鋼材置き場、後方に風車が見えるカット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59716400.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "probable",
+      "access_note": "私有地・敷地内立入不可。敷地外からの確認に限定。",
+      "tags": [
+        "光源",
+        "JFE条鋼",
+        "鹿島製造所"
+      ],
+      "reference_url": "https://www.city.kamisu.ibaraki.jp/kanko_sports/kamisu_fc/1008594/1008597/1008894.html",
+      "lat": 35.880173,
+      "lng": 140.732488,
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/6/c/6cb306d9-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/6/c/6cb306d9.jpg",
+          "label": "光源 PV / 松本和子 鋼材置き場"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/0/e/0ec46ae6-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/0/e/0ec46ae6.jpg",
+          "label": "光源 PV / 松本和子 鋼材置き場 2"
+        }
+      ]
+    },
+    {
+      "id": "saved-list-osaki-hachimangu",
+      "name": "国宝 大崎八幡宮",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Shrine",
+      "address": "宮城県仙台市青葉区八幡4-6-1",
+      "scene_title": "Google Maps保存リスト memo / 2026年始VLOG",
+      "scene_ref": "保存リスト「うい」スクリーンショット 2026-06-21",
+      "scene_note": "保存リストのメモに「2026年始VLOG」とあるため、仙台・松島Vlog系の補足地点として追加。",
+      "source_url": "",
+      "source_label": "Google Maps保存リスト screenshot / user-provided",
+      "confidence": "probable",
+      "access_note": "神社境内。参拝者の妨げにならない範囲で確認。",
+      "tags": [
+        "山川宇衣",
+        "保存リスト",
+        "2026年始VLOG",
+        "仙台",
+        "大崎八幡宮"
+      ],
+      "manual_images": [
+        {
+          "thumb": "https://pub-6d7574c4452b41519ab8adf1541d7f9e.r2.dev/yamakawa-ui/manual/osaki-hachimangu/01_original.png",
+          "full": "https://pub-6d7574c4452b41519ab8adf1541d7f9e.r2.dev/yamakawa-ui/manual/osaki-hachimangu/01_original.png",
+          "label": "2026年始VLOG / 大崎八幡宮"
+        }
+      ],
+      "lat": 38.272778,
+      "lng": 140.840278
+    },
+    {
+      "id": "vlog-fukano-hatsuhinode",
+      "name": "深沼海水浴場",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Scene",
+      "address": "宮城県仙台市若林区荒浜",
+      "scene_title": "2026年始Vlog / 初日の出",
+      "scene_ref": "YouTube HdDom_iHFUE / 14:28",
+      "scene_note": "元旦、大崎八幡宮の初詣の後に友達と一緒に初日の出を見に来た仙台市唯一の海水浴場。",
+      "source_url": "https://www.youtube.com/watch?v=HdDom_iHFUE",
+      "source_label": "櫻坂チャンネル / 2026年始の過ごし方Vlog PART2",
+      "confidence": "probable",
+      "access_note": "海水浴場。元旦は初日の出で混雑。夏期は有料駐車場（1台1000円）。",
+      "tags": [
+        "山川宇衣",
+        "2026年始Vlog",
+        "初日の出",
+        "深沼",
+        "仙台"
+      ],
+      "reference_url": "https://sendai-beach.com/",
+      "lat": 38.223847,
+      "lng": 140.985694,
+      "manual_images": [
+        {
+          "thumb": "https://pub-6d7574c4452b41519ab8adf1541d7f9e.r2.dev/yamakawa-ui/manual/fukano-beach/01_original.png",
+          "full": "https://pub-6d7574c4452b41519ab8adf1541d7f9e.r2.dev/yamakawa-ui/manual/fukano-beach/01_original.png",
+          "label": "2026年始Vlog / 深沼海水浴場 初日の出"
+        }
+      ]
+    },
+    {
+      "id": "saved-list-sendai-uminomori-aquarium",
+      "name": "仙台うみの杜水族館",
+      "layer": "山川宇衣 Vlog - 仙台・松島",
+      "category": "Place",
+      "address": "宮城県仙台市宮城野区中野4-6",
+      "scene_title": "Google Maps保存リスト memo / 友達と一緒に行ったりする",
+      "scene_ref": "保存リスト「うい」スクリーンショット 2026-06-21",
+      "scene_note": "保存リストのメモに「友達と一緒に行ったりする」とあるため、仙台関連の思い出地点として追加。",
+      "source_url": "",
+      "source_label": "Google Maps保存リスト screenshot / user-provided",
+      "confidence": "probable",
+      "access_note": "水族館。営業時間・チケット・館内撮影可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "保存リスト",
+        "仙台",
+        "水族館"
+      ],
+      "lat": 38.272186,
+      "lng": 141.018972
+    },
+    {
+      "id": "saved-list-cafe-buori",
+      "name": "カフェ ブオリ",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Restaurant",
+      "address": "神奈川県鎌倉市長谷2丁目15-20",
+      "scene_title": "260617msg / カフェ ブオリ（Cafe Vuori）",
+      "scene_ref": "保存リスト「うい」スクリーンショット 2026-06-21",
+      "scene_note": "メッセージ「こういうの、夏感じてわくわくする わくわく🍧」で言及された長谷駅近くのカフェ「カフェ ブオリ（Cafe Vuori）」の氷旗・かき氷。",
+      "source_url": "",
+      "source_label": "Google Maps保存リスト screenshot / user-provided",
+      "confidence": "probable",
+      "access_note": "カフェ。営業情報・店内撮影可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "保存リスト",
+        "260617msg",
+        "カフェ"
+      ],
+      "manual_images": [
+        {
+          "thumb": "local:cafe-buori/01_thumb.jpg",
+          "full": "local:cafe-buori/01_original.jpg",
+          "label": "260617msg / カフェ ブオリ"
+        }
+      ],
+      "lat": 35.312154,
+      "lng": 139.535212,
+      "images": [
+        {
+          "big": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1781699472858_d07447a6.jpg",
+          "thumb": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1781699472858_d07447a6.jpg",
+          "alt": "260617msg / カフェ ブオリ 氷旗"
+        }
+      ]
+    },
+    {
+      "id": "saved-list-hasedera",
+      "name": "長谷寺",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Shrine",
+      "address": "神奈川県鎌倉市長谷3-11-2",
+      "scene_title": "260617msg / 桜にうさぎのお守り（長谷寺）",
+      "scene_ref": "保存リスト「うい」スクリーンショット 2026-06-21",
+      "scene_note": "メッセージ「みてみて、最近買った桜にうさぎのお守り🌸🐰 運命感じちゃって買わずにはいられなかったよ〜」で言及された鎌倉・長谷寺の授与品。",
+      "source_url": "",
+      "source_label": "Google Maps保存リスト screenshot / user-provided",
+      "confidence": "probable",
+      "access_note": "寺院境内。拝観時間・撮影可否・参拝者への配慮を確認。",
+      "tags": [
+        "山川宇衣",
+        "保存リスト",
+        "260617msg",
+        "鎌倉",
+        "長谷寺"
+      ],
+      "manual_images": [
+        {
+          "thumb": "local:hasedera/01_thumb.jpg",
+          "full": "local:hasedera/01_original.jpeg",
+          "label": "260617msg / 長谷寺"
+        }
+      ],
+      "lat": 35.312472,
+      "lng": 139.533036,
+      "images": [
+        {
+          "big": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1781699397512_c4aafa0d.jpg",
+          "thumb": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1781699397512_c4aafa0d.jpg",
+          "alt": "260617msg / 長谷寺 桜にうさぎのお守り"
+        },
+        {
+          "big": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1781699419717_1d6e4bcf.jpg",
+          "thumb": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1781699419717_1d6e4bcf.jpg",
+          "alt": "260617msg / 長谷寺 うさぎ"
+        }
+      ]
+    },
+    {
+      "id": "saved-list-ebina-athletics-stadium",
+      "name": "海老名運動公園 陸上競技場",
+      "layer": "四期生PV・グループMV",
+      "category": "Place",
+      "address": "海老名運動公園 陸上競技場",
+      "scene_title": "Google Maps保存リスト memo / 四期生体力チェック",
+      "scene_ref": "保存リスト「うい」スクリーンショット 2026-06-21",
+      "scene_note": "保存リストのメモに「四期生体力チェック」とあるため、四期生企画の補足地点として追加。住所はGoogle Mapsの地点名で解決する。",
+      "source_url": "",
+      "source_label": "Google Maps保存リスト screenshot / user-provided",
+      "confidence": "probable",
+      "access_note": "運動公園施設。利用予定・大会開催・撮影可否を確認。",
+      "tags": [
+        "山川宇衣",
+        "保存リスト",
+        "四期生体力チェック",
+        "海老名"
+      ],
+      "manual_images": [
+        {
+          "thumb": "local:ebina-athletic-stadium/01_thumb.jpg",
+          "full": "local:ebina-athletic-stadium/01_original.jpg",
+          "label": "四期生体力チェック / 海老名運動公園"
+        }
+      ],
+      "lat": 35.432658,
+      "lng": 139.380486
+    },
+    {
+      "id": "msg-260510-ishii-amaguri-fukagawa",
+      "name": "イシイの甘栗 深川店",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Shop",
+      "address": "東京都江東区富岡1丁目22-27",
+      "scene_title": "260510msg / イシイの甘栗 深川店",
+      "scene_ref": "260510msg",
+      "scene_note": "メッセージ「歩いてたら美味しそうな甘栗見つけて買わずにはいられなかった…🌰 やっぱりスーパーの甘栗とは違うのかな〜たのしみ」で言及された老舗甘栗店。",
+      "source_url": "",
+      "source_label": "260510msg / user-provided image",
+      "confidence": "probable",
+      "access_note": "店舗。営業時間を確認。",
+      "tags": [
+        "山川宇衣",
+        "260510msg",
+        "甘栗",
+        "深川"
+      ],
+      "manual_images": [
+        {
+          "thumb": "local:ishii-amaguri-fukagawa/01_thumb.jpg",
+          "full": "local:ishii-amaguri-fukagawa/01_original.jpg",
+          "label": "260510msg / イシイの甘栗"
+        }
+      ],
+      "lat": 35.671889,
+      "lng": 139.799722,
+      "images": [
+        {
+          "big": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1778409820298_6b1871d8.jpg",
+          "thumb": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1778409820298_6b1871d8.jpg",
+          "alt": "260510msg / イシイの甘栗"
+        }
+      ]
+    },
+    {
+      "id": "msg-260510-tomioka-hachimangu",
+      "name": "富岡八幡宮",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Shrine",
+      "address": "東京都江東区富岡1-20-3",
+      "scene_title": "260510msg / 富岡八幡宮 おみくじ",
+      "scene_ref": "260510msg",
+      "scene_note": "メッセージ「ちょっとだけ神社に寄っておみくじも引いたんだけどね / 信じないもん、」で言及された富岡八幡宮のおみくじ写真。",
+      "source_url": "",
+      "source_label": "260510msg / user-provided image",
+      "confidence": "probable",
+      "access_note": "神社境内。参拝者の妨げにならない範囲で確認。",
+      "tags": [
+        "山川宇衣",
+        "260510msg",
+        "富岡八幡宮",
+        "おみくじ"
+      ],
+      "manual_images": [
+        {
+          "thumb": "local:tomioka-hachimangu/01_thumb.jpg",
+          "full": "local:tomioka-hachimangu/01_original.jpg",
+          "label": "260510msg / 富岡八幡宮"
+        }
+      ],
+      "lat": 35.672368,
+      "lng": 139.799189,
+      "images": [
+        {
+          "big": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1778413149751_3488f9da.jpg",
+          "thumb": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1778413149751_3488f9da.jpg",
+          "alt": "260510msg / 富岡八幡宮 おみくじ"
+        }
+      ]
+    },
+    {
+      "id": "msg-260619-oiwake-dango-honpo",
+      "name": "追分だんご本舗",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Restaurant",
+      "address": "東京都新宿区新宿3-1-22",
+      "scene_title": "260619msg / 追分だんご本舗 新宿本店",
+      "scene_ref": "260619msg",
+      "scene_note": "メッセージ「この間わこと春と一緒に食べに行ったかき氷🍵🫘」で言及された新宿の老舗甘味処の宇治金時かき氷。",
+      "source_url": "",
+      "source_label": "260619msg / user-provided image",
+      "confidence": "probable",
+      "access_note": "店舗。営業時間・混雑状況を確認。",
+      "tags": [
+        "山川宇衣",
+        "松本和子",
+        "勝又春",
+        "260619msg",
+        "宇治金時"
+      ],
+      "manual_images": [
+        {
+          "thumb": "local:oiwake-dango-honpo/01_thumb.png",
+          "full": "local:oiwake-dango-honpo/01_original.png",
+          "label": "260619msg / 追分だんご本舗"
+        }
+      ],
+      "lat": 35.690419,
+      "lng": 139.705198,
+      "images": [
+        {
+          "big": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1781866818464_b762f18d.jpg",
+          "thumb": "https://msgmedia.srzwyuu.workers.dev/山川_宇衣/1781866818464_b762f18d.jpg",
+          "alt": "260619msg / 追分だんご本舗 宇治金時"
+        }
+      ]
+    },
+    {
+      "id": "msg-260408-hikoichi-sendai",
+      "name": "甘味処 彦いち",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Restaurant",
+      "address": "宮城県仙台市青葉区一番町4丁目5-41",
+      "scene_title": "260408msg電話 / 甘味処 彦いち",
+      "scene_ref": "260408msg電話",
+      "scene_note": "MSG電話で言及された店。",
+      "source_url": "",
+      "source_label": "260408msg電話 / user-provided",
+      "confidence": "probable",
+      "access_note": "店舗。月曜定休（祝日の場合は翌日振替）。営業時間を確認。",
+      "tags": [
+        "山川宇衣",
+        "260408msg電話",
+        "仙台",
+        "甘味処"
+      ],
+      "lat": 38.261667,
+      "lng": 140.871389
+    },
+    {
+      "id": "msg-nikunoito-sendai-station",
+      "name": "肉のいとう 仙台駅1階店",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Restaurant",
+      "address": "宮城県仙台市青葉区中央1-1-1 JR仙台駅1階 tekuteせんだい",
+      "scene_title": "MSG電話 / ういとーく / 肉のいとう 仙台ちーずんだ",
+      "scene_ref": "MSG電話 / ういとーく / NHK仙台フェスティバル",
+      "scene_note": "昭和42年創業の老舗精肉店。ういたんがおススメする「仙台ちーずんだ」は、ずんだに3種のチーズを混ぜ込みいも餅で包んで揚げたグルメ。サクッとした食感と甘じょっぱい味わいが特徴で、揚げたてが格別。MSG電話・ういとーく・NHK仙台フェスティバルで言及。",
+      "source_url": "https://www.nikunoito.jp/",
+      "source_label": "MSG電話 / ういとーく / web検索",
+      "confidence": "confirmed",
+      "access_note": "仙台駅1階 tekuteせんだい内。年中無休 8:00-20:00（8:00-11:00はモーニングメニューのみ、イートインL.O.19:30）。TEL 022-398-4129。",
+      "tags": [
+        "山川宇衣",
+        "MSG電話",
+        "ういとーく",
+        "仙台",
+        "ちーずんだ",
+        "牛タン"
+      ],
+      "lat": 38.259833,
+      "lng": 140.882167
+    },
+    {
+      "id": "msg-nishipark-sendai",
+      "name": "西公園（仙台）",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Park",
+      "address": "宮城県仙台市青葉区桜ケ岡公園1-3",
+      "scene_title": "MSG電話 / 西公園 桜・屋台",
+      "scene_ref": "MSG電話",
+      "scene_note": "MSG電話で桜のおすすめスポットとして言及。開花時期に屋台が出る。お花見名所。",
+      "source_url": "",
+      "source_label": "MSG電話 / web検索",
+      "confidence": "probable",
+      "access_note": "都市公園。地下鉄東西線大町西公園駅すぐ。駐車場なし。",
+      "tags": [
+        "山川宇衣",
+        "MSG電話",
+        "仙台",
+        "西公園",
+        "桜",
+        "お花見"
+      ],
+      "lat": 38.258811,
+      "lng": 140.862417
+    },
+    {
+      "id": "msg-aoba-festival-sendai",
+      "name": "仙台青葉祭り",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Event",
+      "address": "宮城県仙台市青葉区定禅寺通・西公園周辺",
+      "scene_title": "MSG電話 / 仙台青葉祭り 前夜祭・浴衣",
+      "scene_ref": "MSG電話",
+      "scene_note": "MSG電話で5/16-17開催の仙台青葉祭りを言及。前夜祭で花火、浴衣で彦一におやつ食べた。NHK仙台フェスティバル2026同時開催。",
+      "source_url": "",
+      "source_label": "MSG電話 / web検索",
+      "confidence": "probable",
+      "access_note": "毎年5月第3土日。定禅寺通・西公園・勾当台公園ほか。",
+      "tags": [
+        "山川宇衣",
+        "MSG電話",
+        "仙台",
+        "青葉祭り",
+        "すずめ踊り",
+        "浴衣"
+      ],
+      "lat": 38.26125,
+      "lng": 140.868333
+    },
+    {
+      "id": "msg-enoshima-kanagawa",
+      "name": "江の島",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Scene",
+      "address": "神奈川県藤沢市江の島",
+      "scene_title": "MSG電話 / 江の島 夏旅行",
+      "scene_ref": "MSG電話",
+      "scene_note": "MSG電話で夏に江の島に行ったと言及。電車降りて海の方へ、お土産屋さんに寄った。",
+      "source_url": "",
+      "source_label": "MSG電話 / web検索",
+      "confidence": "probable",
+      "access_note": "小田急片瀬江ノ島駅徒歩1分、江ノ電江ノ島駅徒歩10分。",
+      "tags": [
+        "山川宇衣",
+        "MSG電話",
+        "江の島",
+        "湘南",
+        "夏"
+      ],
+      "lat": 35.300583,
+      "lng": 139.481111
+    },
+    {
+      "id": "msg-260727-ethiopia-jimbocho",
+      "name": "カリーライス専門店 エチオピア 本店",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Restaurant",
+      "address": "東京都千代田区神田小川町3-10-6",
+      "scene_title": "260727msg / さくさんぽ第5弾 神保町カレー聖地巡礼",
+      "scene_ref": "260727msg / YouTube HH_mpIk1lwU",
+      "scene_note": "メッセージで「カレー回の神保町、聖地巡礼したことあります」と言及。『さくさんぽ第5弾』で遠藤さくらが訪れたエチオピア本店を指す。",
+      "source_url": "https://www.youtube.com/watch?v=HH_mpIk1lwU",
+      "source_label": "260727msg / 乃木坂配信中「さくさんぽ第5弾」",
+      "confidence": "confirmed",
+      "access_note": "店舗。公式案内では神保町駅より徒歩5分。営業時間・混雑状況を確認。",
+      "tags": [
+        "山川宇衣",
+        "260727msg",
+        "聖地巡礼",
+        "遠藤さくら",
+        "さくさんぽ",
+        "神保町",
+        "カレー",
+        "エチオピア"
+      ],
+      "lat": 35.696111,
+      "lng": 139.759167
+    },
+    {
+      "id": "msg-hmv-sendai-ebeans",
+      "name": "HMV 仙台 E BeanS 店",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Shop",
+      "address": "宮城県仙台市青葉区中央4-1-1 仙台E BeanS 5F",
+      "scene_title": "HMV 仙台 E BeanS 店 / サイン入りSingleポスター",
+      "scene_ref": "ういとーく",
+      "scene_note": "JR仙台駅西口すぐの仙台E BeanS 5階。シングル発売時に山川宇衣の直筆サイン入りポスターが掲示される（TGUT期間には仙台マスコット「むすび丸」のイラスト入り）。",
+      "source_url": "https://www.hmv.co.jp/store/SLP/",
+      "source_label": "ういとーく / HMV仙台",
+      "confidence": "confirmed",
+      "access_note": "10:00-20:00。年中無休。JR仙台駅西口徒歩すぐ。",
+      "tags": [
+        "山川宇衣",
+        "仙台",
+        "HMV",
+        "E BeanS",
+        "サイン入りポスター"
+      ],
+      "reference_url": "https://www.hmv.co.jp/store/SLP/",
+      "lat": 38.258889,
+      "lng": 140.880833
+    },
+    {
+      "id": "nhk-sendai-broadcast-station",
+      "name": "NHK 仙台放送局",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Other",
+      "address": "宮城県仙台市青葉区錦町1-11-1",
+      "scene_title": "NHK 仙台放送局 / TOHOKU HEART展示",
+      "scene_ref": "NHK仙台フェスティバル2026",
+      "scene_note": "2026年5月16日「NHK仙台フェスティバル2026」てれまさスペシャルステージにゲスト出演。1階ロビーに宇衣が東北の魅力を直筆したハート型カード「TOHOKU HEART（東北大好き）」が展示されている。",
+      "source_url": "https://www.nhk.or.jp/sendai/",
+      "source_label": "NHK仙台フェスティバル2026 / てれまさ",
+      "confidence": "confirmed",
+      "access_note": "平日10:00-19:00、土曜10:00-17:00（日祝・年末年始休館）。1階ロビーは開館日自由に見学可能。",
+      "tags": [
+        "山川宇衣",
+        "仙台",
+        "NHK仙台",
+        "TOHOKU HEART",
+        "てれまさ"
+      ],
+      "reference_url": "https://www.nhk.or.jp/sendai/",
+      "manual_images": [
+        {
+          "thumb": "local:nhk-sendai/01_tohoku-heart-board_thumb.png",
+          "full": "local:nhk-sendai/01_tohoku-heart-board.png",
+          "label": "NHK仙台放送局 / TOHOKU HEART展示"
+        },
+        {
+          "thumb": "local:nhk-sendai/02_tohoku-heart-card_thumb.png",
+          "full": "local:nhk-sendai/02_tohoku-heart-card.png",
+          "label": "山川宇衣 直筆 TOHOKU HEART（東北大好き）"
+        }
+      ],
+      "lat": 38.267222,
+      "lng": 140.8775
+    },
+    {
+      "id": "msg-abekama-head-store",
+      "name": "阿部蒲鉾店 本店",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Shop",
+      "address": "宮城県仙台市青葉区中央2-3-18",
+      "scene_title": "阿部蒲鉾店 本店 / ひょうたん揚げ・笹かまぼこ",
+      "scene_ref": "ういとーく / 浅井好乃未ラジオ",
+      "scene_note": "創業昭和10年の老舗蒲鉾店。名物「ひょうたん揚げ」は丸い蒲鉾をほんのり甘い衣で揚げたアメリカンドッグ風スナックで、ういとーくや同期・浅井好乃未のラジオでも推薦。定番の笹かまぼこもお土産として紹介。",
+      "source_url": "https://www.abekama.co.jp/",
+      "source_label": "ういとーく",
+      "confidence": "confirmed",
+      "access_note": "10:00-19:00（元日休業）。ひょうたん揚げは夕方に完売することがあるため注意。",
+      "tags": [
+        "山川宇衣",
+        "仙台",
+        "阿部蒲鉾店",
+        "ひょうたん揚げ",
+        "笹かまぼこ",
+        "お土産"
+      ],
+      "reference_url": "https://www.abekama.co.jp/",
+      "lat": 38.260556,
+      "lng": 140.876389
+    },
+    {
+      "id": "msg-darestore-coffee-eatery",
+      "name": "darestore Coffee & Eatery",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Cafe",
+      "address": "宮城県仙台市青葉区国分町1-1-11 スズキビル 1F",
+      "scene_title": "darestore Coffee & Eatery / クロワッサンサンド・チャイラテ",
+      "scene_ref": "ういとーく",
+      "scene_note": "一番町の人気カフェの2号店。コンクリート基調のスタイリッシュな空間。ういとーくにて冬季限定の「りんごのクロワッサンサンド」と「チャイラテ」の写真を掲載。",
+      "source_url": "https://dare-store.com/",
+      "source_label": "ういとーく",
+      "confidence": "confirmed",
+      "access_note": "9:30-18:30（L.O.18:00）／ランチ11:30-14:30。不定休。",
+      "tags": [
+        "山川宇衣",
+        "仙台",
+        "darestore",
+        "カフェ",
+        "クロワッサンサンド",
+        "チャイラテ"
+      ],
+      "reference_url": "https://dare-store.com/",
+      "lat": 38.26,
+      "lng": 140.87
+    },
+    {
+      "id": "msg-kikusuian-kikufuku-daifuku",
+      "name": "お茶の井ヶ田 喜久水庵 仙台中央通り本店",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Shop",
+      "address": "宮城県仙台市青葉区中央2-5-9",
+      "scene_title": "お茶の井ヶ田 喜久水庵 / 喜久福の生クリーム大福",
+      "scene_ref": "ういとーく",
+      "scene_note": "大福好きの宇衣がういとーくで大福トークと共に紹介する仙台銘菓「喜久福」。やわらかな薄皮餅で生クリームと餡（ずんだ・抹茶・生クリーム・ほうじ茶）を包んだ人気の生クリーム大福。",
+      "source_url": "https://kikusuian.jp/",
+      "source_label": "ういとーく",
+      "confidence": "confirmed",
+      "access_note": "10:00-19:30。JR仙台駅やエスパル仙台各店でも購入可能。",
+      "tags": [
+        "山川宇衣",
+        "仙台",
+        "喜久水庵",
+        "喜久福",
+        "生クリーム大福",
+        "お土産"
+      ],
+      "reference_url": "https://kikusuian.jp/",
+      "lat": 38.260833,
+      "lng": 140.877778
+    },
+    {
+      "id": "msg-aobajo-sendai-castle",
+      "name": "青葉城址（仙台城跡）",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Other",
+      "address": "宮城県仙台市青葉区川内1",
+      "scene_title": "青葉城址（仙台城跡） / 天守台・伊達政宗騎馬像・夜景",
+      "scene_ref": "ういとーく",
+      "scene_note": "伊達政宗公が築いた仙台城の本丸跡。天守台に立つ伊達政宗騎馬像と、そこから仙台市中心部〜太平洋まで一望できる夜景をういとーくにておすすめとして紹介。",
+      "source_url": "https://honmarukaikan.com/",
+      "source_label": "ういとーく",
+      "confidence": "confirmed",
+      "access_note": "本丸跡地は常時見学可（24時間開放）。仙台城見聞館9:00-17:00（年中無休）。るーぷる仙台「仙台城跡」バス停すぐ。",
+      "tags": [
+        "山川宇衣",
+        "仙台",
+        "青葉城址",
+        "仙台城跡",
+        "伊達政宗",
+        "夜景"
+      ],
+      "reference_url": "https://honmarukaikan.com/",
+      "lat": 38.2525,
+      "lng": 140.856111
+    },
+    {
+      "id": "youtube-202606-karin-aeonmall-makuhari",
+      "name": "果汁工房果琳 イオンモール幕張新都心店",
+      "layer": "YouTube",
+      "category": "Restaurant",
+      "address": "千葉県千葉市美浜区豊砂1-1 イオンモール幕張新都心",
+      "scene_title": "YouTube / バナナスムージー",
+      "scene_ref": "YouTube FasWElvoy9c / 10:12",
+      "scene_note": "動画内でバナナスムージーを持っている場面。",
+      "source_url": "https://www.youtube.com/watch?v=FasWElvoy9c&t=612s",
+      "source_label": "YouTube",
+      "confidence": "probable",
+      "access_note": "商業施設内店舗。営業時間を確認。",
+      "tags": [
+        "山川宇衣",
+        "YouTube",
+        "果汁工房果琳",
+        "イオンモール幕張新都心",
+        "バナナスムージー"
+      ],
+      "manual_images": [
+        {
+          "thumb": "local:karin-aeonmall-makuhari/01_thumb.png",
+          "full": "local:karin-aeonmall-makuhari/01_original.png",
+          "label": "YouTube 10:12 / バナナスムージー"
+        }
+      ],
+      "lat": 35.655239,
+      "lng": 140.029197
+    },
+    {
+      "id": "sakuratabi-nagano-zenkoji",
+      "name": "善光寺",
+      "layer": "YouTube",
+      "category": "Shrine",
+      "address": "長野県長野市元善町491-イ",
+      "scene_title": "櫻旅 長野編 / 善光寺参拝",
+      "scene_ref": "YouTube x4ve5VzzEwI",
+      "scene_note": "JR東日本コラボ「櫻坂46と、鉄道で旅しよう。」長野編で小田倉麗奈と山川宇衣が参拝。創業1400余年の国宝本堂を有する長野代表の寺院。",
+      "source_url": "https://www.youtube.com/watch?v=x4ve5VzzEwI",
+      "source_label": "櫻坂チャンネル / 櫻旅 長野編",
+      "confidence": "confirmed",
+      "access_note": "境内自由。本堂内陣券800円、共通券1500円。夏期4:30-16:30、冬期6:00-16:00。",
+      "tags": [
+        "山川宇衣",
+        "櫻旅",
+        "長野",
+        "善光寺",
+        "JR東日本"
+      ],
+      "reference_url": "https://www.zenkoji.jp/",
+      "manual_images": [
+        {
+          "thumb": "local:zenkoji/01_zenkoji_thumb.png",
+          "full": "local:zenkoji/01_zenkoji.png",
+          "label": "櫻旅 長野編 / 善光寺"
+        },
+        {
+          "thumb": "local:zenkoji-binzuru/01_binzuru_thumb.png",
+          "full": "local:zenkoji-binzuru/01_binzuru.png",
+          "label": "善光寺 / びんずる尊者（撫仏）"
+        }
+      ],
+      "lat": 36.661667,
+      "lng": 138.187778
+    },
+    {
+      "id": "sakuratabi-nagano-kadono-daimaru",
+      "name": "かどの大丸",
+      "layer": "YouTube",
+      "category": "Restaurant",
+      "address": "長野県長野市大門町504",
+      "scene_title": "櫻旅 長野編 / 更科そば",
+      "scene_ref": "YouTube x4ve5VzzEwI",
+      "scene_note": "善光寺門前、創業元禄十五年（300余年）の老舗そば店。宇衣が櫻旅長野編で食べたのは更科そば。職人の手打ちそばが味わえる信州そばの名店。",
+      "source_url": "https://www.youtube.com/watch?v=x4ve5VzzEwI",
+      "source_label": "櫻坂チャンネル / 櫻旅 長野編",
+      "confidence": "confirmed",
+      "access_note": "9:00-18:30 不定休。カード不可、PayPay可。善光寺から徒歩5分。",
+      "tags": [
+        "山川宇衣",
+        "櫻旅",
+        "長野",
+        "かどの大丸",
+        "更科そば",
+        "そば",
+        "善光寺門前"
+      ],
+      "reference_url": "http://zenkoji-daimon.com/town-guide/daimaru.php",
+      "manual_images": [
+        {
+          "thumb": "local:kadono-daimaru/01_kadono-daimaru_thumb.png",
+          "full": "local:kadono-daimaru/01_kadono-daimaru.png",
+          "label": "櫻旅 長野編 / かどの大丸・更科そば"
+        }
+      ],
+      "lat": 36.658889,
+      "lng": 138.187778
+    },
+    {
+      "id": "sakuratabi-nagano-azumido-zenkoji",
+      "name": "あづみ堂 善光寺仲見世店",
+      "layer": "YouTube",
+      "category": "Restaurant",
+      "address": "長野県長野市元善町486 丸清",
+      "scene_title": "櫻旅 長野編 / プレミアムおやき 信州牛野沢菜",
+      "scene_ref": "YouTube x4ve5VzzEwI",
+      "scene_note": "善光寺仲見世通りでプレミアムおやき信州牛野沢菜を食べた。あづみ堂の善光寺門前店舗（漬物老舗 高橋善光寺仲見世通り店）。",
+      "source_url": "https://www.youtube.com/watch?v=x4ve5VzzEwI",
+      "source_label": "櫻坂チャンネル / 櫻旅 長野編",
+      "confidence": "confirmed",
+      "access_note": "9:00-17:00。善光寺仲見世通り。",
+      "tags": [
+        "山川宇衣",
+        "櫻旅",
+        "長野",
+        "おやき",
+        "あづみ堂",
+        "善光寺仲見世",
+        "信州牛野沢菜"
+      ],
+      "reference_url": "https://azumido.jp/tenpo/",
+      "manual_images": [
+        {
+          "thumb": "local:azumido-zenkoji/01_premium-oyaki_thumb.png",
+          "full": "local:azumido-zenkoji/01_premium-oyaki.png",
+          "label": "櫻旅 長野編 / プレミアムおやき 信州牛野沢菜"
+        }
+      ],
+      "lat": 36.66,
+      "lng": 138.187778
+    },
+    {
+      "id": "sakuratabi-nagano-gallery-ren",
+      "name": "ギャルリ蓮（白蓮坊）",
+      "layer": "YouTube",
+      "category": "Shop",
+      "address": "長野県長野市元善町465 善光寺 白蓮坊内",
+      "scene_title": "櫻旅 長野編 / ギャルリ蓮・天然石ブレスレット体験",
+      "scene_ref": "YouTube x4ve5VzzEwI",
+      "scene_note": "善光寺の宿坊・白蓮坊内にあるギャルリ蓮。とんぼ玉と20種類以上の天然石からオリジナルのブレスレットを作る体験ができる。",
+      "source_url": "https://www.youtube.com/watch?v=x4ve5VzzEwI",
+      "source_label": "櫻坂チャンネル / 櫻旅 長野編",
+      "confidence": "confirmed",
+      "access_note": "白蓮坊の玄関先。体験は予約・開催状況を事前確認。",
+      "tags": [
+        "山川宇衣",
+        "櫻旅",
+        "長野",
+        "ギャルリ蓮",
+        "白蓮坊",
+        "ブレスレット手作り体験",
+        "善光寺"
+      ],
+      "reference_url": "https://www.jalan.net/kankou/spt_guide000000183486/activity/l000028558/",
+      "manual_images": [
+        {
+          "thumb": "local:gallery-ren/03_gallery-ren_thumb.png",
+          "full": "local:gallery-ren/03_gallery-ren.png",
+          "label": "櫻旅 長野編 / ギャルリ蓮"
+        },
+        {
+          "thumb": "local:gallery-ren/01_thumb.jpg",
+          "full": "local:gallery-ren/01_original.jpg",
+          "label": "ギャルリ蓮 / とんぼ玉と天然石のブレスレット"
+        },
+        {
+          "thumb": "local:gallery-ren/02_thumb.jpg",
+          "full": "local:gallery-ren/02_original.jpg",
+          "label": "ギャルリ蓮 / 白蓮坊"
+        }
+      ],
+      "lat": 36.660833,
+      "lng": 138.187222
+    },
+    {
+      "id": "sakuratabi-nagano-entotsu-obuse",
+      "name": "えんとつ（小布施堂）",
+      "layer": "YouTube",
+      "category": "Restaurant",
+      "address": "長野県上高井郡小布施町小布施808",
+      "scene_title": "櫻旅 長野編 / モンブラン朱雀・りんごジュース",
+      "scene_ref": "YouTube x4ve5VzzEwI",
+      "scene_note": "信州の名門小布施堂が手掛けるモンブラン朱雀専門カフェ。宇衣はモンブラン朱雀とりんごジュースを注文。",
+      "source_url": "https://www.youtube.com/watch?v=x4ve5VzzEwI",
+      "source_label": "櫻坂チャンネル / 櫻旅 長野編",
+      "confidence": "confirmed",
+      "access_note": "営業時間11:00-15:00（季節により変動）。予約・持ち帰り不可。予定数で受付終了の場合あり。",
+      "tags": [
+        "山川宇衣",
+        "櫻旅",
+        "長野",
+        "小布施",
+        "えんとつ",
+        "小布施堂",
+        "モンブラン朱雀",
+        "りんごジュース"
+      ],
+      "reference_url": "https://obusedo.com/suzaku/",
+      "manual_images": [
+        {
+          "thumb": "local:obusedo-entotsu/03_entotsu_thumb.png",
+          "full": "local:obusedo-entotsu/03_entotsu.png",
+          "label": "櫻旅 長野編 / えんとつ・モンブラン朱雀"
+        },
+        {
+          "thumb": "local:obusedo-entotsu/04_obuse_thumb.png",
+          "full": "local:obusedo-entotsu/04_obuse.png",
+          "label": "櫻旅 長野編 / 小布施"
+        },
+        {
+          "thumb": "local:obusedo-entotsu/01_thumb.jpg",
+          "full": "local:obusedo-entotsu/01_entotsu.jpg",
+          "label": "えんとつ / 小布施堂のモンブラン朱雀専門店"
+        },
+        {
+          "thumb": "local:obusedo-entotsu/02_thumb.jpg",
+          "full": "local:obusedo-entotsu/02_montblanc-suzaku.jpg",
+          "label": "えんとつ / モンブラン朱雀"
+        }
+      ],
+      "lat": 36.709167,
+      "lng": 138.317778
+    },
+    {
+      "id": "sakuratabi-nagano-nozawa-blueberry",
+      "name": "ブルーベリー農園 森の畑",
+      "layer": "YouTube",
+      "category": "Other",
+      "address": "長野県須坂市福島311",
+      "scene_title": "櫻旅 長野編 / ブルーベリー農園 森の畑",
+      "scene_ref": "YouTube x4ve5VzzEwI",
+      "scene_note": "JR東日本コラボ「櫻坂46と、鉄道で旅しよう。」長野編で小田倉麗奈と山川宇衣が訪れたブルーベリー農園。時間無制限のブルーベリー摘み取り（品種：森のサファイア）や特製ソフトクリームを堪能。",
+      "source_url": "https://www.youtube.com/watch?v=x4ve5VzzEwI",
+      "source_label": "櫻坂チャンネル / 櫻旅 長野編",
+      "confidence": "probable",
+      "access_note": "公開情報では温泉街から車で約5分の片塩家の畑と案内されているが、詳細住所は非公開。訪問は体験予約・案内に従う。",
+      "tags": [
+        "山川宇衣",
+        "櫻旅",
+        "長野",
+        "須坂",
+        "ブルーベリー農園 森の畑",
+        "森のサファイア"
+      ],
+      "reference_url": "https://morinohatake.co.jp/",
+      "manual_images": [
+        {
+          "thumb": "https://pub-6d7574c4452b41519ab8adf1541d7f9e.r2.dev/yamakawa-ui/manual/nozawa-blueberry/01_blueberry-farm.png",
+          "full": "https://pub-6d7574c4452b41519ab8adf1541d7f9e.r2.dev/yamakawa-ui/manual/nozawa-blueberry/01_blueberry-farm.png",
+          "label": "櫻旅 長野編 / ブルーベリー農園 森の畑"
+        }
+      ],
+      "lat": 36.638528,
+      "lng": 138.281861,
+      "images": [
+        {
+          "big": "https://pub-6d7574c4452b41519ab8adf1541d7f9e.r2.dev/yamakawa-ui/manual/nozawa-blueberry/01_blueberry-farm.png",
+          "thumb": "https://pub-6d7574c4452b41519ab8adf1541d7f9e.r2.dev/yamakawa-ui/manual/nozawa-blueberry/01_blueberry-farm_thumb.png",
+          "alt": "櫻旅 長野編 / ブルーベリー農園 森の畑"
+        }
+      ]
+    },
+    {
+      "id": "sakuratabi-nagano-nakajimaya-ryokan",
+      "name": "中島屋旅館",
+      "layer": "YouTube",
+      "category": "Accommodation",
+      "address": "長野県下高井郡野沢温泉村大字豊郷8965",
+      "scene_title": "櫻旅 長野編 / 野沢温泉 中島屋旅館",
+      "scene_ref": "YouTube x4ve5VzzEwI",
+      "scene_note": "野沢温泉の源泉かけ流しの湯宿。櫻旅長野編で小田倉麗奈と山川宇衣が宿泊した。信州牛や熊肉料理が味わえる。",
+      "source_url": "https://www.youtube.com/watch?v=x4ve5VzzEwI",
+      "source_label": "櫻坂チャンネル / 櫻旅 長野編",
+      "confidence": "confirmed",
+      "access_note": "飯山駅から野沢温泉ライナーで約25分。要予約。",
+      "tags": [
+        "山川宇衣",
+        "櫻旅",
+        "長野",
+        "野沢温泉村",
+        "中島屋旅館",
+        "温泉宿"
+      ],
+      "reference_url": "https://www.nakajimaya.jp/",
+      "manual_images": [
+        {
+          "thumb": "https://pub-6d7574c4452b41519ab8adf1541d7f9e.r2.dev/yamakawa-ui/manual/nakajimaya-ryokan/01_nakajimaya.png",
+          "full": "https://pub-6d7574c4452b41519ab8adf1541d7f9e.r2.dev/yamakawa-ui/manual/nakajimaya-ryokan/01_nakajimaya.png",
+          "label": "櫻旅 長野編 / 中島屋旅館"
+        }
+      ],
+      "lat": 36.920833,
+      "lng": 138.441944
+    },
+    {
+      "id": "sakuratabi-nagano-kanseido-marron-financier",
+      "name": "桜井甘精堂 本店",
+      "layer": "YouTube",
+      "category": "Shop",
+      "address": "長野県上高井郡小布施町小布施774",
+      "scene_title": "櫻旅 長野編 / お土産・マロンフィナンシェ",
+      "scene_ref": "YouTube x4ve5VzzEwI",
+      "scene_note": "小布施の栗菓子老舗・桜井甘精堂本店。宇衣がお土産にマロンフィナンシェを購入。",
+      "source_url": "https://www.youtube.com/watch?v=x4ve5VzzEwI",
+      "source_label": "櫻坂チャンネル / 櫻旅 長野編",
+      "confidence": "confirmed",
+      "access_note": "8:30-17:00。無休。",
+      "tags": [
+        "山川宇衣",
+        "櫻旅",
+        "長野",
+        "小布施",
+        "桜井甘精堂",
+        "マロンフィナンシェ"
+      ],
+      "reference_url": "https://www.kanseido.co.jp/shop/head/",
+      "lat": 36.708333,
+      "lng": 138.318889
+    },
+    {
+      "id": "sakuratabi-nagano-tetsuji-financier",
+      "name": "井筒屋鐵治 小布施店",
+      "layer": "YouTube",
+      "category": "Shop",
+      "address": "長野県上高井郡小布施町上町977 いろは堂内",
+      "scene_title": "櫻旅 長野編 / お土産・小布施栗のフィナンシェ",
+      "scene_ref": "YouTube x4ve5VzzEwI",
+      "scene_note": "小布施栗と信州産素材を使うスイーツ店。宇衣がお土産に小布施栗のフィナンシェを購入。",
+      "source_url": "https://www.youtube.com/watch?v=x4ve5VzzEwI",
+      "source_label": "櫻坂チャンネル / 櫻旅 長野編",
+      "confidence": "confirmed",
+      "access_note": "9:00-17:00。9月-11月は無休、それ以外は不定休。",
+      "tags": [
+        "山川宇衣",
+        "櫻旅",
+        "長野",
+        "小布施",
+        "井筒屋鐵治",
+        "小布施栗のフィナンシェ"
+      ],
+      "reference_url": "https://tetsuji.theshop.jp/items/81027342",
+      "manual_images": [
+        {
+          "thumb": "local:tetsuji-financier/01_tetsuji-financier_thumb.png",
+          "full": "local:tetsuji-financier/01_tetsuji-financier.png",
+          "label": "櫻旅 長野編 / 小布施栗のフィナンシェ"
+        }
+      ],
+      "lat": 36.708889,
+      "lng": 138.318333
+    },
+    {
+      "id": "sakuratabi-nagano-chikufudo-dorayama",
+      "name": "竹風堂 小布施本店",
+      "layer": "YouTube",
+      "category": "Shop",
+      "address": "長野県上高井郡小布施町小布施973",
+      "scene_title": "櫻旅 長野編 / お土産・どら焼山 栗粒あん",
+      "scene_ref": "YouTube x4ve5VzzEwI",
+      "scene_note": "国産栗を使う栗菓子の老舗・竹風堂小布施本店。宇衣がお土産にどら焼山 栗粒あんを購入。",
+      "source_url": "https://www.youtube.com/watch?v=x4ve5VzzEwI",
+      "source_label": "櫻坂チャンネル / 櫻旅 長野編",
+      "confidence": "confirmed",
+      "access_note": "8:00-19:00。無休。",
+      "tags": [
+        "山川宇衣",
+        "櫻旅",
+        "長野",
+        "小布施",
+        "竹風堂",
+        "どら焼山",
+        "栗粒あん"
+      ],
+      "reference_url": "https://chikufudo.com/shop/576/",
+      "manual_images": [
+        {
+          "thumb": "local:chikufudo-dorayama/01_dorayama_thumb.png",
+          "full": "local:chikufudo-dorayama/01_dorayama.png",
+          "label": "櫻旅 長野編 / どら焼山 栗粒あん"
+        }
+      ],
+      "lat": 36.7075,
+      "lng": 138.318611
+    },
+    {
+      "id": "wgyb-shibuya-crossing-1",
+      "name": "京王井の頭線 渋谷1号踏切 - We got your back",
+      "layer": "四期生PV・グループMV",
+      "category": "Scene",
+      "address": "東京都渋谷区円山町18-7",
+      "scene_title": "We got your back / 渋谷1号踏切 (佐藤愛桜)",
+      "scene_ref": "櫻坂46「We got your back」PV / 2026-06-28 article",
+      "scene_note": "京王井の頭線渋谷1号踏切。欅坂46「月曜日の朝、スカートを切られた」PV渡辺梨加ソロシーンと同ロケ地。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59914210.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "踏切・公共通路。安全と通行に十分配慮。",
+      "tags": [
+        "四期生",
+        "We got your back",
+        "PV",
+        "渋谷"
+      ],
+      "lat": 35.65719,
+      "lng": 139.693916,
+      "images": [
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/a/7/a7ff29d3.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/a/7/a7ff29d3-s.jpg",
+          "alt": "櫻坂46「We got your back」PV"
+        },
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/b/b/bb7cbded.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/b/b/bb7cbded-s.jpg",
+          "alt": "渋谷1号踏切 (佐藤愛桜)"
+        }
+      ],
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/a/7/a7ff29d3-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/a/7/a7ff29d3.jpg",
+          "label": "We got your back / 渋谷1号踏切"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/b/b/bb7cbded-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/b/b/bb7cbded.jpg",
+          "label": "We got your back / 渋谷1号踏切 2"
+        }
+      ]
+    },
+    {
+      "id": "wgyb-tocho-dori",
+      "name": "都庁通り - We got your back",
+      "layer": "四期生PV・グループMV",
+      "category": "Scene",
+      "address": "東京都新宿区西新宿2丁目5",
+      "scene_title": "We got your back / 都庁通り (佐藤愛桜)",
+      "scene_ref": "櫻坂46「We got your back」PV / 2026-06-28 article",
+      "scene_note": "東京都道新宿副都心十一号線（通称都庁通り）。窓から東京都議会議事堂が見えるカット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59914210.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "公共道路。歩行者・車両に配慮。",
+      "tags": [
+        "四期生",
+        "We got your back",
+        "PV",
+        "新宿"
+      ],
+      "lat": 35.689346,
+      "lng": 139.69246,
+      "images": [
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/9/6/9612aa09.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/9/6/9612aa09-s.jpg",
+          "alt": "櫻坂46「We got your back」PV"
+        },
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/e/9/e9a8dae7.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/e/9/e9a8dae7-s.jpg",
+          "alt": "都庁通り (佐藤愛桜)"
+        }
+      ],
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/9/6/9612aa09-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/9/6/9612aa09.jpg",
+          "label": "We got your back / 都庁通り"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/e/9/e9a8dae7-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/e/9/e9a8dae7.jpg",
+          "label": "We got your back / 都庁通り 2"
+        }
+      ]
+    },
+    {
+      "id": "wgyb-shuto-koukashita",
+      "name": "首都高速4号新宿線 高架下 - We got your back",
+      "layer": "四期生PV・グループMV",
+      "category": "Scene",
+      "address": "東京都新宿区南元町9-7",
+      "scene_title": "We got your back / 首都高4号線高架下",
+      "scene_ref": "櫻坂46「We got your back」PV / 2026-06-28 article",
+      "scene_note": "首都高速4号新宿線高架下。欅坂46「避雷針」PV平手友梨奈ソロシーンと同ロケ地。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59914210.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "高架下公共空間。",
+      "tags": [
+        "四期生",
+        "We got your back",
+        "PV",
+        "新宿"
+      ],
+      "lat": 35.680472,
+      "lng": 139.724682,
+      "images": [
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/b/1/b1f50c4d.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/b/1/b1f50c4d-s.jpg",
+          "alt": "櫻坂46「We got your back」PV"
+        },
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/9/a/9a7f42b1.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/9/a/9a7f42b1-s.jpg",
+          "alt": "首都高速4号新宿線の高架下"
+        }
+      ],
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/b/1/b1f50c4d-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/b/1/b1f50c4d.jpg",
+          "label": "We got your back / 首都高速高架下"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/9/a/9a7f42b1-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/9/a/9a7f42b1.jpg",
+          "label": "We got your back / 首都高速高架下 2"
+        }
+      ]
+    },
+    {
+      "id": "wgyb-mitsumori-scrap",
+      "name": "三森興産第2スクラップヤード - We got your back",
+      "layer": "四期生PV・グループMV",
+      "category": "Scene",
+      "address": "神奈川県横浜市鶴見区獅子ヶ谷2-34-59",
+      "scene_title": "We got your back / 三森興産スクラップヤード (佐藤愛桜)",
+      "scene_ref": "櫻坂46「We got your back」PV / 2026-06-28 article",
+      "scene_note": "有限会社三森興産第2スクラップヤードでの撮影シーン。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59914210.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "事業所敷地。無断立入禁止、外観確認のみ。",
+      "tags": [
+        "四期生",
+        "We got your back",
+        "PV",
+        "横浜"
+      ],
+      "lat": 35.522291,
+      "lng": 139.650513,
+      "reference_url": "https://www.metalgy.co.jp/pv.html",
+      "images": [
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/5/0/50725452.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/5/0/50725452-s.jpg",
+          "alt": "櫻坂46「We got your back」PV"
+        },
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/9/9/99c91756.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/9/9/99c91756-s.jpg",
+          "alt": "有限会社三森興産第2スクラップヤード (佐藤愛桜)"
+        }
+      ],
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/5/0/50725452-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/5/0/50725452.jpg",
+          "label": "We got your back / 三森興産スクラップヤード"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/9/9/99c91756-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/9/9/99c91756.jpg",
+          "label": "We got your back / 三森興産スクラップヤード 2"
+        }
+      ]
+    },
+    {
+      "id": "wgyb-shibuya-scramble",
+      "name": "渋谷駅前スクランブル交差点 - We got your back",
+      "layer": "四期生PV・グループMV",
+      "category": "Scene",
+      "address": "東京都渋谷区宇田川町5-1-21",
+      "scene_title": "We got your back / 渋谷スクランブル交差点 (佐藤愛桜)",
+      "scene_ref": "櫻坂46「We got your back」PV / 2026-06-28 article",
+      "scene_note": "渋谷駅前交差点（渋谷スクランブル交差点）カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59914210.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "超高通行量の公共空間。歩行の妨げにならないよう注意。",
+      "tags": [
+        "四期生",
+        "We got your back",
+        "PV",
+        "渋谷"
+      ],
+      "lat": 35.659536,
+      "lng": 139.700529,
+      "images": [
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/5/1/512922b2.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/5/1/512922b2-s.jpg",
+          "alt": "櫻坂46「We got your back」PV"
+        },
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/0/5/05751f0c.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/0/5/05751f0c-s.jpg",
+          "alt": "渋谷駅前交差点 (佐藤愛桜)"
+        }
+      ],
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/5/1/512922b2-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/5/1/512922b2.jpg",
+          "label": "We got your back / 渋谷スクランブル交差点"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/0/5/05751f0c-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/0/5/05751f0c.jpg",
+          "label": "We got your back / 渋谷スクランブル交差点 2"
+        }
+      ]
+    },
+    {
+      "id": "wgyb-haraoka-sanbashi",
+      "name": "原岡桟橋（岡本桟橋） - We got your back",
+      "layer": "四期生PV・グループMV",
+      "category": "Scene",
+      "address": "千葉県南房総市富浦町原岡地先",
+      "scene_title": "We got your back / 原岡桟橋 (佐藤愛桜)",
+      "scene_ref": "櫻坂46「We got your back」PV / 2026-06-28 article",
+      "scene_note": "原岡桟橋（岡本桟橋）、海岸から3番目の電柱の横での夕景・海カット。",
+      "source_url": "http://blog.livedoor.jp/fumichen2/archives/59914210.html",
+      "source_label": "fumi Diary 2号店",
+      "confidence": "confirmed",
+      "access_note": "観光地・木製桟橋。天候・高潮に注意。",
+      "tags": [
+        "四期生",
+        "We got your back",
+        "PV",
+        "千葉"
+      ],
+      "lat": 35.044377,
+      "lng": 139.830811,
+      "images": [
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/c/4/c42d2ea5.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/c/4/c42d2ea5-s.jpg",
+          "alt": "櫻坂46「We got your back」PV"
+        },
+        {
+          "big": "https://livedoor.blogimg.jp/fumichen2/imgs/d/c/dc93c907.jpg",
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/d/c/dc93c907-s.jpg",
+          "alt": "原岡桟橋 (佐藤愛桜)"
+        }
+      ],
+      "manual_images": [
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/c/4/c42d2ea5-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/c/4/c42d2ea5.jpg",
+          "label": "We got your back / 原岡桟橋"
+        },
+        {
+          "thumb": "https://livedoor.blogimg.jp/fumichen2/imgs/d/c/dc93c907-s.jpg",
+          "full": "https://livedoor.blogimg.jp/fumichen2/imgs/d/c/dc93c907.jpg",
+          "label": "We got your back / 原岡桟橋 2"
+        }
+      ]
+    },
+    {
+      "id": "blog-70916-sendai-pageant",
+      "name": "SENDAI光のページェント（定禅寺通）",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Other",
+      "address": "宮城県仙台市青葉区定禅寺通（仙台三越前〜定禅寺ガーデンヒルズ迎賓館前）",
+      "scene_title": "公式ブログ「宇宙船に乗って、どの星を目指そう」 / SENDAI光のページェント",
+      "scene_ref": "山川宇衣 公式ブログ #49 / 2026-09-07",
+      "scene_note": "幼少期、父の運転する車にパジャマ姿で乗り、車窓から『ひかペ』を見た思い出を公式ブログで紹介。定禅寺通のケヤキ並木がライトアップされる仙台の冬の風物詩。",
+      "source_url": "https://46log.com/blog/#blog/sakurazaka-70916",
+      "source_label": "櫻坂46 山川宇衣 公式ブログ",
+      "confidence": "confirmed",
+      "access_note": "冬季開催。開催日・点灯時間は公式サイトを要確認。地点は点灯区間の中央付近。",
+      "tags": [
+        "山川宇衣",
+        "公式ブログ",
+        "仙台",
+        "SENDAI光のページェント",
+        "定禅寺通",
+        "ひかペ"
+      ],
+      "reference_url": "https://sendaihikape.jp/overview/",
+      "lat": 38.265626,
+      "lng": 140.869184
+    },
+    {
+      "id": "msg-260904-parfait-terrace-milkyway",
+      "name": "パフェテラス ミルキーウェイ",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Cafe",
+      "address": "東京都豊島区東池袋1-12-8 富士喜ビル2F",
+      "scene_title": "260904msg / 喫茶店のプリン",
+      "scene_ref": "山川宇衣 MSG / 2026-09-04 20:36:08",
+      "scene_note": "メッセージ『喫茶店のプリン…✨』に添付された、プリンにホイップクリームとチェリーを添えた写真。素材時刻は2026-09-04 18:17:31。",
+      "source_url": "",
+      "source_label": "260904msg / user-provided",
+      "confidence": "confirmed",
+      "access_note": "池袋駅東口から徒歩圏。営業時間・定休日は公式サイトを要確認。",
+      "tags": [
+        "山川宇衣",
+        "MSG",
+        "260904msg",
+        "池袋",
+        "喫茶店",
+        "プリン",
+        "カフェ"
+      ],
+      "reference_url": "https://milkyway-cafe.sakura.ne.jp/access.html",
+      "manual_images": [
+        {
+          "thumb": "local:parfait-terrace-milkyway/01_thumb.jpg",
+          "full": "local:parfait-terrace-milkyway/01_original.jpg",
+          "label": "260904msg / 喫茶店のプリン"
+        }
+      ],
+      "lat": 35.729336,
+      "lng": 139.714157
+    }
+  ]
+}
