@@ -219,3 +219,4 @@ MSG電話で言及された店。
 - 只有 `仙台うみの杜水族館` 曾经没有图片；无图点可以保留。
 - 如果 My Maps KML 导入失败，先尝试单层 KML；仍失败时用同目录 CSV 作为备份，但 CSV 的图片展示不如 KML。
 - 新增 MSG 点如果还没有截图，可以先无图加入，等截图补齐后再加 `manual_images` 并上传 R2。
+- 2026-09-26：网站侧新增「番組・テレビ」大分类（build_geojson.py 的 get_hierarchy，layer/title 含 テレビ/番組 时命中，tv 紫色图标）。注意 classify_layer（My Maps KML 图层）未拆出电视节目层，这类点会落入 `06_MSG_雑誌_Blog`；如需单独 KML 图层要同步改 build_kml_final.py 系列脚本。
