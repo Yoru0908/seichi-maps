@@ -127,6 +127,7 @@ CATEGORY_COLORS = {
     '個人PV': '#059669',        # 翠绿
     '雑誌・グラビア': '#7c3aed', # 紫罗兰
     'Blog・MSG': '#f59e0b',     # 琥珀橙
+    '番組・テレビ': '#6d28d9',   # 深紫（tv 图标色）
 }
 
 def get_hierarchy(scene):
@@ -155,6 +156,12 @@ def get_hierarchy(scene):
         return '個人PV', 'その日、その場所で出会う。'
     if '個人PV' in layer:
         return '個人PV', 'その他個人PV'
+
+    # 2.5 番組・テレビ（テレビ番組ロケ・出演言及；须在 Vlog・企画 的「仙台」判定之前）
+    if 'テレビ' in layer or '番組' in layer or 'テレビ' in title or '番組' in title:
+        if 'あらあらかしこ' in title or 'あらあらかしこ' in source:
+            return '番組・テレビ', 'あらあらかしこ'
+        return '番組・テレビ', 'テレビ番組'
 
     # 3. Vlog・企画
     if '仙台' in layer or '松島' in layer or '仙台' in title or '松島' in title:
