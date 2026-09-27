@@ -2757,6 +2757,41 @@
       ],
       "lat": 38.250416,
       "lng": 140.8963237
+    },
+    {
+      "id": "msg-260927-todoroki-fudoson",
+      "name": "等々力不動尊（瀧轟山明王院）",
+      "layer": "ブログ/グリーティング写真",
+      "category": "Shrine",
+      "address": "東京都世田谷区等々力1-22-47",
+      "scene_title": "260927msg / 等々力不動尊の絵馬",
+      "scene_ref": "山川宇衣 MSG / 2026-09-27（絵馬落款 2026-09-02）",
+      "scene_note": "メッセージに添付された絵馬の写真。「大切な人たちと笑顔で幸せにすごせますように」と記し、落款は「うい 2026.9.2」。TBSラジオ「TALK ABOUT」（2026-04-25、松田里奈・山川宇衣出演）で紹介された行きたい場所の一つとして触れられていた等々力不動尊を実際に訪れたもの。",
+      "source_url": "",
+      "source_label": "260927msg / user-provided",
+      "confidence": "confirmed",
+      "access_note": "東急大井町線 等々力駅から徒歩約7分（目黒通り沿い）。等々力渓谷・不動の滝と併せて参拝可能。",
+      "tags": [
+        "山川宇衣",
+        "MSG",
+        "260927msg",
+        "等々力不動尊",
+        "世田谷",
+        "等々力渓谷",
+        "絵馬",
+        "神社",
+        "TALK ABOUT"
+      ],
+      "reference_url": "https://www.tbsradio.jp/talkabout/",
+      "manual_images": [
+        {
+          "thumb": "local:todoroki-fudoson/01_thumb.jpg",
+          "full": "local:todoroki-fudoson/01_original.png",
+          "label": "等々力不動尊の絵馬（落款 2026.9.2）"
+        }
+      ],
+      "lat": 35.6037425,
+      "lng": 139.6476391
     }
   ]
 }
