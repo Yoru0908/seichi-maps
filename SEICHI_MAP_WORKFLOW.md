@@ -76,6 +76,8 @@ JSON 中使用 `local:` 引用：
 
 ## 新增地点流程
 
+> 本节只覆盖 My Maps（KML）。**网站发布**（平台分支 → 独立圣巡站 → 坂ログ 快照 → yamakawaui）与已知问题见 `维护文档/runbook/seichi-map-publish.md`。
+
 1. 确认地点是否公开、是否适合做巡礼点。不要加入私人住址、学校生活地点、实时位置或无法公开验证的敏感地点。
 2. 在 `yamakawa-ui/yamakawa-ui-scenes.json` 追加一条 scene。
 3. 如果有图片，放进 `assets/manual-images/<place-slug>/`，并生成缩略图。
