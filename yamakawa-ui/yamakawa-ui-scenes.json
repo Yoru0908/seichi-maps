@@ -2756,7 +2756,8 @@
         }
       ],
       "lat": 38.250416,
-      "lng": 140.8963237
+      "lng": 140.8963237,
+      "public_copy": {}
     },
     {
       "id": "msg-260927-todoroki-fudoson",
@@ -2794,7 +2795,28 @@
         }
       ],
       "lat": 35.6037425,
-      "lng": 139.6476391
+      "lng": 139.6476391,
+      "public_copy": {
+        "category": "番組・イベント",
+        "subcategory": "TALK ABOUT",
+        "category_color": "#2563eb",
+        "scene_title": "訪問済 / TALK ABOUT 紹介地 等々力渓谷と等々力不動尊",
+        "scene_note": "TBSラジオ「TALK ABOUT」（2026-04-25、松田里奈・山川宇衣出演）で紹介された場所。山川宇衣が2026年9月に訪れ、等々力渓谷でかき氷を食べたあと等々力不動尊で絵馬（「大切な人たちと笑顔で幸せにすごせますように」、落款 うい 2026.9.2）を奉納。おみくじは大吉。",
+        "source_label": "TBSラジオ「TALK ABOUT」",
+        "source_url": "https://www.tbsradio.jp/talkabout/",
+        "tags": [
+          "山川宇衣",
+          "TALK ABOUT",
+          "等々力不動尊",
+          "世田谷",
+          "等々力渓谷",
+          "絵馬",
+          "神社",
+          "訪問済",
+          "かき氷",
+          "おみくじ"
+        ]
+      }
     },
     {
       "id": "talkabout-260425-teamlab-planets",
@@ -2820,7 +2842,20 @@
       "reference_url": "https://www.teamlab.art/jp/e/planets/",
       "manual_images": [],
       "lat": 35.64938,
-      "lng": 139.789728
+      "lng": 139.789728,
+      "public_copy": {
+        "category": "番組・イベント",
+        "subcategory": "TALK ABOUT",
+        "category_color": "#2563eb",
+        "scene_note": "TBSラジオ「TALK ABOUT」（2026-04-25、松田里奈・山川宇衣出演）で、山川宇衣が行ってみたい場所として挙げたチームラボ。",
+        "tags": [
+          "山川宇衣",
+          "TALK ABOUT",
+          "行きたい場所",
+          "チームラボ",
+          "豊洲"
+        ]
+      }
     },
     {
       "id": "talkabout-260425-tokyo-national-museum",
@@ -2847,7 +2882,19 @@
       "reference_url": "https://www.tnm.jp/",
       "manual_images": [],
       "lat": 35.7190448,
-      "lng": 139.7759676
+      "lng": 139.7759676,
+      "public_copy": {
+        "category": "番組・イベント",
+        "subcategory": "TALK ABOUT",
+        "category_color": "#2563eb",
+        "tags": [
+          "山川宇衣",
+          "TALK ABOUT",
+          "訪問済",
+          "上野",
+          "博物館"
+        ]
+      }
     }
   ]
 }
