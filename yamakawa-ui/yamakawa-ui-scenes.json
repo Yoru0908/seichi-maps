@@ -2764,9 +2764,9 @@
       "layer": "ブログ/グリーティング写真",
       "category": "Shrine",
       "address": "東京都世田谷区等々力1-22-47",
-      "scene_title": "260927msg / 等々力不動尊の絵馬",
+      "scene_title": "訪問済 / 260927msg 等々力渓谷と等々力不動尊",
       "scene_ref": "山川宇衣 MSG / 2026-09-27（絵馬落款 2026-09-02）",
-      "scene_note": "メッセージに添付された絵馬の写真。「大切な人たちと笑顔で幸せにすごせますように」と記し、落款は「うい 2026.9.2」。TBSラジオ「TALK ABOUT」（2026-04-25、松田里奈・山川宇衣出演）で紹介された行きたい場所の一つとして触れられていた等々力不動尊を実際に訪れたもの。",
+      "scene_note": "全国ツアーが終わった頃（絵馬の落款 2026.9.2）に訪問。2026-09-27のメッセージで「ラジオで教えてもらったところ」として紹介：等々力渓谷でかき氷を食べ、少し登った先の等々力不動尊で絵馬（「大切な人たちと笑顔で幸せにすごせますように」）を書き、おみくじは大吉。TBSラジオ「TALK ABOUT」（2026-04-25、松田里奈・山川宇衣出演）で紹介された場所。",
       "source_url": "",
       "source_label": "260927msg / user-provided",
       "confidence": "confirmed",
@@ -2780,7 +2780,10 @@
         "等々力渓谷",
         "絵馬",
         "神社",
-        "TALK ABOUT"
+        "TALK ABOUT",
+        "訪問済",
+        "かき氷",
+        "おみくじ"
       ],
       "reference_url": "https://www.tbsradio.jp/talkabout/",
       "manual_images": [
@@ -2792,6 +2795,59 @@
       ],
       "lat": 35.6037425,
       "lng": 139.6476391
+    },
+    {
+      "id": "talkabout-260425-teamlab-planets",
+      "name": "チームラボプラネッツ TOKYO DMM",
+      "layer": "ラジオ番組",
+      "category": "Other",
+      "address": "東京都江東区豊洲6-1-16",
+      "scene_title": "行きたい場所 / TALK ABOUT 2026-04-25",
+      "scene_ref": "TBSラジオ「TALK ABOUT」（2026-04-25、松田里奈・山川宇衣出演）",
+      "scene_note": "TBSラジオ「TALK ABOUT」（2026-04-25、松田里奈・山川宇衣出演）で、山川宇衣が行ってみたい場所として挙げたチームラボ。まだ訪問の記録はない「行きたい場所」。",
+      "source_url": "https://www.tbsradio.jp/talkabout/",
+      "source_label": "TBSラジオ「TALK ABOUT」",
+      "confidence": "confirmed",
+      "access_note": "ゆりかもめ 新豊洲駅 徒歩1分。日時指定の事前予約制。水に入る展示あり（膝上まで濡れる場合あり）。",
+      "tags": [
+        "山川宇衣",
+        "TALK ABOUT",
+        "ラジオ",
+        "行きたい場所",
+        "チームラボ",
+        "豊洲"
+      ],
+      "reference_url": "https://www.teamlab.art/jp/e/planets/",
+      "manual_images": [],
+      "lat": 35.64938,
+      "lng": 139.789728
+    },
+    {
+      "id": "talkabout-260425-tokyo-national-museum",
+      "name": "東京国立博物館",
+      "layer": "ラジオ番組",
+      "category": "Other",
+      "address": "東京都台東区上野公園13-9",
+      "scene_title": "訪問済 / TALK ABOUT 2026-04-25",
+      "scene_ref": "TBSラジオ「TALK ABOUT」（2026-04-25、松田里奈・山川宇衣出演）",
+      "scene_note": "TBSラジオ「TALK ABOUT」（2026-04-25、松田里奈・山川宇衣出演）で、山川宇衣が訪れたことがあると話した上野の博物館。",
+      "source_url": "https://www.tbsradio.jp/talkabout/",
+      "source_label": "TBSラジオ「TALK ABOUT」",
+      "confidence": "confirmed",
+      "access_note": "JR上野駅 公園口・鶯谷駅から徒歩約10分。休館日・特別展の開催状況は公式サイトを要確認。",
+      "tags": [
+        "山川宇衣",
+        "TALK ABOUT",
+        "ラジオ",
+        "訪問済",
+        "上野",
+        "博物館",
+        "トーハク"
+      ],
+      "reference_url": "https://www.tnm.jp/",
+      "manual_images": [],
+      "lat": 35.7190448,
+      "lng": 139.7759676
     }
   ]
 }

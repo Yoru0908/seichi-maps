@@ -161,6 +161,8 @@ def get_hierarchy(scene):
     if 'テレビ' in layer or '番組' in layer or 'テレビ' in title or '番組' in title:
         if 'あらあらかしこ' in title or 'あらあらかしこ' in source:
             return '番組・テレビ', 'あらあらかしこ'
+        if 'TALK ABOUT' in title or 'TALK ABOUT' in source:
+            return '番組・テレビ', 'TALK ABOUT（ラジオ）'
         return '番組・テレビ', 'テレビ番組'
 
     # 3. Vlog・企画
