@@ -5,6 +5,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'scripts'))
+from verify_coordinates import guard  # noqa: E402
+
 JSON_PATH = os.path.join(os.path.dirname(__file__), 'yamakawa-ui-scenes.json')
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), 'geojson')
 
@@ -245,6 +248,7 @@ def main():
         data = json.load(f)
 
     scenes = data.get('scenes', data) if isinstance(data, dict) else data
+    guard(scenes)
 
     features = []
     skipped = 0
