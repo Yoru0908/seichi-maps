@@ -32,6 +32,14 @@ class CarryReview(unittest.TestCase):
         self.assertNotIn("classification", by["legacy"])  # left to migrate(): legacy-import / unreviewed
 
 
+class CarryCrawled(unittest.TestCase):
+    def test_keeps_cron_appended_points_scenes_do_not_have(self):
+        built = {"features": [feat("hand")]}
+        published = {"features": [feat("hand"), feat("fumi-article:abc"), feat("dropped-hand-point")]}
+        self.assertEqual(pub.carry_crawled(built, published), 1)
+        self.assertEqual([f["properties"]["id"] for f in built["features"]], ["hand", "fumi-article:abc"])
+
+
 class PublicCopy(unittest.TestCase):
     def test_rewrites_wording_images_and_source(self):
         f = feat("msg-1", images=[f"{R2}/yamakawa-ui/manual/spot/01_original.png"])

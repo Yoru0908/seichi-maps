@@ -7,6 +7,9 @@
   #3 综合图 sakurazaka-all.geojson 里的「干净副本」原来要手写。
      这里由 scene 的 `public_copy` 字段生成（有该字段 = 导出；里面只写需要改写的项），
      并按 坂ログ worker/seichi.ts 的规则预检：含 MSG/メッセージ/msg-archive 的点会被坂ログ 整条丢弃 → 直接报错。
+  #4 Homeserver 的 fumi cron（sakamichi-platform scripts/seichi/append_member_spots.py）会把她新文章的点
+     （id 以 fumi-article: 开头）追加进已发布的 yamakawa-ui.geojson。scenes 里没有这些点，重建时原样保留在末尾；
+     若某篇文章后来在 scenes 里手工收录了，删掉对应的 fumi-article: 点即可（见 carry_crawled）。
 
 用法（在 sakamichi-platform 分支的 worktree 上）：
   python3 scripts/publish_yamakawa_ui.py --platform-dir <worktree>/public/seichi [--dry-run] [--no-build]
@@ -64,6 +67,15 @@ def carry_review(built: dict, published: dict, scenes: dict[str, dict]) -> tuple
             p["classificationCandidates"] = {"members": [MEMBER], "projects": [], "contentTypes": [scene["content_type"]] if scene.get("content_type") else []}
             new += 1
     return kept, new
+
+
+def carry_crawled(built: dict, published: dict) -> int:
+    """#4: keep the cron-appended fumi-article: points that scenes.json does not have."""
+    ids = {f["properties"]["id"] for f in built["features"]}
+    crawled = [f for f in published.get("features", [])
+               if str(f["properties"].get("id", "")).startswith("fumi-article:") and f["properties"]["id"] not in ids]
+    built["features"].extend(copy.deepcopy(crawled))
+    return len(crawled)
 
 
 def public_feature(yui_feature: dict, public_copy: dict) -> dict:
@@ -133,12 +145,13 @@ def main() -> int:
     built = load(tmp)
     tmp.unlink()
     kept, new = carry_review(built, published, scenes)
+    crawled = carry_crawled(built, published)
     by_id = {f["properties"]["id"]: f for f in built["features"]}
     copies = [public_feature(by_id[sid], s["public_copy"]) for sid, s in scenes.items() if "public_copy" in s and sid in by_id]
     added, updated = upsert_public(all_map, copies)
 
     reviewed = sum(1 for f in built["features"] if f["properties"]["classification"].get("status") == "confirmed")
-    print(f"yamakawa-ui: {len(built['features'])} 点｜继承审核 {kept}｜新点 {new}｜已确认 {reviewed}")
+    print(f"yamakawa-ui: {len(built['features'])} 点｜继承审核 {kept}｜新点 {new}｜已确认 {reviewed}｜保留爬取 {crawled}")
     print(f"sakurazaka-all: {len(all_map['features'])} 点｜公开副本 {len(copies)}（新增 {added}，更新 {updated}）")
     if a.dry_run:
         print("dry-run：未写入")
