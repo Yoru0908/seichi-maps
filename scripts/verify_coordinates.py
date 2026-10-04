@@ -40,7 +40,8 @@ SCENES = ROOT / "yamakawa-ui" / "yamakawa-ui-scenes.json"
 SNAPSHOT = ROOT / "yamakawa-ui" / "fumi-coords.json"
 TOL_M = 15.0
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-ARTICLE = re.compile(r"fumichen2/archives/(\d+)")
+# blog.livedoor.jp/fumichen2/archives/… (old) and fumichen2.livedoor.blog/archives/… (since ~2026-09-10)
+ARTICLE = re.compile(r"fumichen2(?:\.livedoor\.blog)?/archives/(\d+)")
 COORD = re.compile(r"座標\s*[:：]\s*(-?\d+\.\d+)\s*[,，\s]\s*(-?\d+\.\d+)")
 JAPAN = (20.0, 46.5, 122.0, 154.0)  # lat min/max, lng min/max
 

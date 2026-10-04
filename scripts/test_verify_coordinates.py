@@ -1,6 +1,6 @@
 import unittest
 
-from verify_coordinates import check_scene, guard, match_spots, parse_article, sanity, update_pins
+from verify_coordinates import article_id, check_scene, guard, match_spots, parse_article, sanity, update_pins
 
 HTML = """<div class="article-body-inner">
 今日は駅に来ました。<br>座標: 38.1, 140.1<br>
@@ -23,6 +23,11 @@ class Verify(unittest.TestCase):
         spots = parse_article(HTML)
         self.assertEqual([s["name"] for s in spots], ["", "六郷土手河川敷公園", ""])
         self.assertEqual(spots[2]["address"], "")
+
+    def test_article_id_both_blog_domains(self):
+        self.assertEqual("58499744", article_id("http://blog.livedoor.jp/fumichen2/archives/58499744.html"))
+        self.assertEqual("60086133", article_id("https://fumichen2.livedoor.blog/archives/60086133.html"))
+        self.assertIsNone(article_id("https://example.com/archives/1.html"))
 
     def test_ok_and_drift(self):
         self.assertEqual(check_scene(scene(), snap())["status"], "ok")
